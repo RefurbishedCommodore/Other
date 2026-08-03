@@ -58,5 +58,5 @@ To start disassembling the SNES the six Gamebit screws[^1]. Note that you need a
 <!-- MARK STOP -->
 
 **Footnotes**
-[^1]: Phillips pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
+[^1]: Gamebit pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 
