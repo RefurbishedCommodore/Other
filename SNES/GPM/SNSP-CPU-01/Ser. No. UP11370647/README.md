@@ -71,4 +71,5 @@ First, the ribbon cable for the control-port PCB is removed (1). Then the two sc
 
 **Footnotes**
 [^1]: Gamebit pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
+[^2]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
 
