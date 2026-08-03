@@ -52,7 +52,7 @@ Below are some pictures of the SNES before refurbishment.
 To start disassembling the SNES the six Gamebit screws[^1]. Note that you need a special tool for this operation: a Gamebit 4.5 mm screwdriver.
 
 <p align="center">
-    <img src="Images/Dis_01.jpeg" alt="Description" width="800">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="600">
 </p>
 
 <!-- MARK STOP -->
