@@ -63,6 +63,14 @@ With the Gamebit screws out of the way, the top cover is lifted. The interior is
 
 First, the ribbon cable for the control-port PCB is removed (1). Then the two screws holding the power switch are removed (2), and then finally the power switch cable is removed from the PCB (3). See pictures below.
 
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="1000">
+</p>
+
 The top cover appears to be in good mechanical condition.
 
 <p align="center">
