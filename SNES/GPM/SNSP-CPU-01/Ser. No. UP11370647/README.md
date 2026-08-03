@@ -49,10 +49,10 @@ Below are some pictures of the SNES before refurbishment.
 
 # Disassembly
 
-To start disassembling the SNES the six Gamebit screws[^1]. 
+To start disassembling the SNES the six Gamebit screws[^1]. Note that you need a special tool for this operation: a Gamebit 4.5 mm screwdriver.
 
 <!-- MARK STOP -->
 
 **Footnotes**
-[^1]: Phillips pan head (5.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
+[^1]: Phillips pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 
