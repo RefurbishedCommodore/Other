@@ -1,1 +1,22 @@
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/RefurbishedCommodore/blob/main/Images/LogoNew.png" alt="Description" width="400">
+</p>
 
+# Super Nintendo Entertainment System (SNES)
+
+![Name](https://img.shields.io/badge/Serial_No.-UP11370647-white?style=plastic)
+<br>
+![Name](https://img.shields.io/badge/Revision-SNSP_CPU_01-white?style=plastic)
+![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
+
+# Table of contents
+
+# Starting point
+
+Oh... What is this? Some kind of ultra-rare Commodore peripheral? No, not at all! Say hello to the famous Super Nintendo Entertainment System (SNES)! This is the first time I have ever tried to refurbish a Nintendo device. And I have hardly ever used a SNES, so this will be a first.
+
+The plan is to replace the capacitors, and give it a bit of "nip-and-tuck". If the device is not working I am probably going to be very challenged as I have zero spare parts for these devices. But, let´s see!
+
+From the outside the SNES is quite dirty and severely yellowed. I can hear, vaguely, some kind of rattling sound inside as if something is loose inside. I do not know if the SNES works or not, but beside from dust and grease, it does looks to be in good mechanical condition.
+
+Below are some pictures of the SNES before refurbishment.
