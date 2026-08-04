@@ -97,7 +97,9 @@ Removing the cartridge eject mechanism is straighforward:
 2) Slide the large plastic part out from the holder on the left side
 3) Remove the metal spring
 
-
+<p align="center">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="800">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
