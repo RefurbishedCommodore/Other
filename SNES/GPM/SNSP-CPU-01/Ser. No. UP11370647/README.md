@@ -21,6 +21,9 @@
     <li>
       <a href="#disassembly">Disassembly</a>
     </li>
+    <li>
+      <a href="#initial-testing">Initial testing</a>
+    </li>
   </ul>
 </details>
 
@@ -51,8 +54,8 @@ Below are some pictures of the SNES before refurbishment.
 
 Before the SNES is opened the device is connected to TV, powered and started. This is the result:
 
-- With no cartridge installed: POWER LED ON, BLACK SCREEN and NO AUDIO
-- With game cartridge installed: POWER LED ON, BLACK SCREEN and NO AUDIO
+- With no cartridge installed: **POWER LED ON, BLACK SCREEN and NO AUDIO**
+- With game cartridge installed: **POWER LED ON, BLACK SCREEN and NO AUDIO**
 
 This is unfortunate. It can be an issue with oxidized cartridge port, blown fuse or poor voltages, broken traces (due to leaking capacitors) or a broken IC. 
 
@@ -87,6 +90,16 @@ The top cover appears to be in good mechanical condition.
 <p align="center">
     <img src="Images/Dis_03.jpeg" alt="Description" width="600">
 </p>
+
+Removing the cartridge eject mechanism is straighforward:
+
+1) Lift the metal-rod on the right hand side from the plastic holder
+2) Slide the large plastic part out from the holder on the left side
+3) Remove the metal spring
+
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
