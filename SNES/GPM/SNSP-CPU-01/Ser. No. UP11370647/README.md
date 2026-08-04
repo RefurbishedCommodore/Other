@@ -105,6 +105,12 @@ Removing the cartridge eject mechanism is straighforward:
     <img src="Images/Dis_07.jpeg" alt="Description" width="700">
 </p>
 
+With the cartridge eject mechanism out of the way, the next step is to remove the first RF-shield (P2) and the cartridge port connector. The RF-shield is held to the PCB with four screws[^3], and the cartridge connector is held by two screws[^4]. But now I notice something: The leftmost screw on the cartridge port connector is not fully fastened. Also, both the heads on these two Pozidriv screws are slightly damaged. Probably due to using a screwdriver of wrong size. 
+
+<p align="center">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="800">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
@@ -112,4 +118,8 @@ Removing the cartridge eject mechanism is straighforward:
 **Footnotes**
 [^1]: Gamebit pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 [^2]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
+[^3]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
+[^4]: Pozidriv pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 13.5 mm
+
+
 
