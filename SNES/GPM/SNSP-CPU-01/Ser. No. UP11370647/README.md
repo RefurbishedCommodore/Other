@@ -105,7 +105,7 @@ Removing the cartridge eject mechanism is straighforward:
     <img src="Images/Dis_07.jpeg" alt="Description" width="700">
 </p>
 
-With the cartridge eject mechanism out of the way, the next step is to remove the first RF-shield (P2) and the cartridge port connector. The RF-shield is held to the PCB with four screws[^3], and the cartridge connector is held by two screws[^4]. But now I notice something: The leftmost screw on the cartridge port connector is not fully fastened. Also, both the heads on these two Pozidriv screws are slightly damaged. Probably due to using a screwdriver of wrong size. 
+With the cartridge eject mechanism out of the way, the next step is to remove the first RF-shield (P2) and the cartridge port connector. The RF-shield is held to the PCB with four screws[^3], and the cartridge connector is held by two screws[^4]. But now I notice something: The leftmost screw on the cartridge port connector is not fully fastened. Also, both the heads on these two Pozidriv screws are slightly damaged. Probably due to using a screwdriver of wrong size. This should not be much of a problem, but is something to investigate when troubleshooting.
 
 <p align="center">
     <img src="Images/Dis_08.jpeg" alt="Description" width="800">
