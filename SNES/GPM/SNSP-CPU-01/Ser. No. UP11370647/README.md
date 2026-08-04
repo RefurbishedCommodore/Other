@@ -101,6 +101,10 @@ Removing the cartridge eject mechanism is straighforward:
     <img src="Images/Dis_06.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="700">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
