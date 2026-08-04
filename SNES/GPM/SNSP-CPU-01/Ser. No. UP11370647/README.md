@@ -54,10 +54,10 @@ Below are some pictures of the SNES before refurbishment.
 
 Before the SNES is opened the device is connected to TV, powered and started. This is the result:
 
-- With no cartridge installed: **POWER LED ON, BLACK SCREEN and NO AUDIO**
+- With no cartridge installed: **POWER LED ON, BLACK SCREEN and NO AUDIO** // **POWER LED ON, NO VIDEO and NO AUDIO**
 - With game cartridge installed: **POWER LED ON, BLACK SCREEN and NO AUDIO**
 
-This is unfortunate. It can be an issue with oxidized cartridge port, blown fuse or poor voltages, broken traces (due to leaking capacitors) or a broken IC. 
+This is unfortunate. It can be an issue with oxidized cartridge port, blown fuse or poor voltages, broken traces (due to leaking capacitors) or a broken IC. Sometimes the device fail to produce a video output at all when powered on.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
