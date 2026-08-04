@@ -116,6 +116,13 @@ With the cartridge eject mechanism out of the way, the next step is to remove th
     <img src="Images/Dis_10.jpeg" alt="Description" width="500">
 </p>
 
+When the RF-shield (P2) is removed a large part of the PCB is revealed. As can be seen from the picture below, this is a SNSP-CPU-01 mainboard. This is one of the early versions of the mainboard, and unfortunately known for failing (due to a bad `CPU-01`).
+
+<p align="center">
+    <img src="Images/Dis_11.jpeg" alt="Description" width="800">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
