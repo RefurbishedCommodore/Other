@@ -47,6 +47,17 @@ Below are some pictures of the SNES before refurbishment.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Initial testing
+
+Before the SNES is opened the device is connected to TV, powered and started. This is the result:
+
+- With no cartridge installed: POWER LED ON, BLACK SCREEN and NO AUDIO
+- With game cartridge installed: POWER LED ON, BLACK SCREEN and NO AUDIO
+
+This is unfortunate. It can be an issue with oxidized cartridge port, blown fuse or poor voltages, broken traces (due to leaking capacitors) or a broken IC. 
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Disassembly
 
 To start disassembling the SNES the six Gamebit screws[^1]. Note that you need a special tool for this operation: a Gamebit 4.5 mm screwdriver.
@@ -61,7 +72,7 @@ With the Gamebit screws out of the way, the top cover is lifted. The interior is
     <img src="Images/Dis_02.jpeg" alt="Description" width="600">
 </p>
 
-First, the ribbon cable for the control-port PCB is removed (1). Then the two screws holding the power switch are removed (2), and then finally the power switch cable is removed from the PCB (3). See pictures below.
+First, the ribbon cable for the control-port PCB is removed (1). Then the two screws holding the power switch are removed[^2] (2), and then finally the power switch cable is removed from the PCB (3). See pictures below.
 
 <p align="center">
     <img src="Images/Dis_04.jpeg" alt="Description" width="600">
