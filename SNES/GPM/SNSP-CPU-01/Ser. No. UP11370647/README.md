@@ -111,6 +111,11 @@ With the cartridge eject mechanism out of the way, the next step is to remove th
     <img src="Images/Dis_08.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center" float="left">
+    <img src="Images/Dis_09.jpeg" alt="Description" width="500">
+    <img src="Images/Dis_10.jpeg" alt="Description" width="500">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
