@@ -124,6 +124,15 @@ When the RF-shield (P2) is removed a large part of the PCB is revealed. As can b
 
 Before the mainboard PCB can be lifted from the bottom cover, the three remaining screws needs to be removed. One is located at the rear (right side)[^5] of the mainboard. The other two are[^6] partly hidden by the P1 RF shield. See pictures below.
 
+<p align="center">
+    <img src="Images/Dis_12.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_13.jpeg" alt="Description" width="600">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
