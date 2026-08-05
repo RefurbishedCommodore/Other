@@ -140,6 +140,8 @@ Now the mainboard PCB is lifted from the bottom cover. Next action is to remove 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+To remove the RF-shield/hearsink marked "P1" the three machine screws[^8] at the underside of the mainboard are removed. **NOTE:** There are tooth washers on the screws.
+
 <!-- MARK STOP -->
 
 **Footnotes**
@@ -150,6 +152,7 @@ Now the mainboard PCB is lifted from the bottom cover. Next action is to remove 
 [^5]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
 [^6]: Phillips pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 13.5 mm
 [^7]: Phillips pan head (5.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm (plus flat washer and spring lock washer)
+[^8]: Phillips pan head (6.2 mm), Machine screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 7.0 mm (plus tooth washer)
 
 
 
