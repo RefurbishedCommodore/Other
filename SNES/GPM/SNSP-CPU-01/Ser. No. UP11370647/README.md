@@ -132,7 +132,7 @@ Before the mainboard PCB can be lifted from the bottom cover, the three remainin
     <img src="Images/Dis_13.jpeg" alt="Description" width="600">
 </p>
 
-Now the mainboard PCB is lifted from the bottom cover. Next action is to remove the screw on the 7805 voltage regulator which is mounted to the P1 RF-shield (which for the 7805 voltage regulator function as a heatsink).
+Now the mainboard PCB is lifted from the bottom cover. Next action is to remove the screw on the 7805 voltage regulator which is mounted to the P1 RF-shield (which for the 7805 voltage regulator function as a heatsink). **NOTE:** There are two washers on the screw; one flat washer, and one spring lock washer. Also, for some reason, there are no thermal heat paste between the 7805 voltage regulator and the heatsink. 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
