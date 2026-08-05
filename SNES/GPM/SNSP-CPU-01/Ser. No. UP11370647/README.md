@@ -142,6 +142,10 @@ Now the mainboard PCB is lifted from the bottom cover. Next action is to remove 
 
 To remove the RF-shield/hearsink marked "P1" the three machine screws[^8] at the underside of the mainboard are removed. **NOTE:** There are tooth washers on the screws.
 
+<p align="center">
+    <img src="Images/Dis_15.jpeg" alt="Description" width="700">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
