@@ -122,6 +122,7 @@ When the RF-shield (P2) is removed a large part of the PCB is revealed. As can b
     <img src="Images/Dis_11.jpeg" alt="Description" width="800">
 </p>
 
+Before the mainboard PCB can be lifted from the bottom cover, the three remaining screws needs to be removed. One is located at the rear (right side)[^5] of the mainboard. The other two are[^6] partly hidden by the P1 RF shield. See pictures below.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -131,7 +132,8 @@ When the RF-shield (P2) is removed a large part of the PCB is revealed. As can b
 [^1]: Gamebit pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 [^2]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
 [^3]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
-[^4]: Pozidriv pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 13.5 mm
-
+[^4]: Phillips pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 13.5 mm
+[^5]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
+[^6]: Phillips pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 13.5 mm
 
 
