@@ -189,6 +189,22 @@ For transparency: I actually did not notice the corroded trace at first. This wa
 </p>
 
 
+
+<div align="center">
+    
+| Chip/Area | Manufactor | Version | Date code | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | Nintendo(Ricoh) | S-CPU A<br>5A22-02 | Unknown | |
+| PPU#1 | Nintendo(Ricoh) | S-PPU1<br>5C77-01 | Unknown | |
+| PPU#2 | Nintendo(Ricoh) | S-PPU2 B<br>5C78-03 | Unknown | |
+| Work RAM | Nintendo | S-WRAM | W27 Y1992 | |
+| Video RAM | MOSEL | MS62256CL-10FC | W24 Y1992 | x2 |
+| Audio RAM | Hitachi | HM9453100FP | W16 Y1992 | x2 |
+| S-DSP | Sony | Unknown | Unknown | Marked: WWW21867X |
+| S-SMP | Sony | TBD | TBD |  |
+
+</div>
+
 ## Checking the voltages
 
 <div align="center">
