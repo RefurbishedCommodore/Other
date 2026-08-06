@@ -159,7 +159,7 @@ To remove the RF-shield/hearsink marked "P1" the three machine screws[^8] at the
     <img src="Images/Dis_15.jpeg" alt="Description" width="700">
 </p>
 
-Now the SNES is completely disassembled. The mainboard is now ready for inspection, and the top and bottom covers are ready for cleaning. 
+Now the SNES is completely disassembled. The mainboard is now ready for inspection, and the top and bottom covers are ready for cleaning. **NOTE:** Before disassembly I noted some kind of rattling sound inside. But during disassembly I did not find anything loose inside (?). I might be that whatever was inside got lost during assembly, but I am not really sure...
 
 <p align="center">
     <img src="Images/Dis_16.jpeg" alt="Description" width="700">
@@ -169,7 +169,16 @@ Now the SNES is completely disassembled. The mainboard is now ready for inspecti
 
 # Mainboard
 
+The mainboard is a SNSP-CPU-01, one of the early revisions of the mainboard.
+
 ## Visual inspection
+
+There is a substantial amount of dust and grease on the mainboard. This is not too serious, but there are some other areas which needs attention:
+
+- Capacitors C59, C60 and C61 have leaked
+- Corroded trace around pin 19 on the cartridge port
+
+
 
 ## Checking the voltages
 
