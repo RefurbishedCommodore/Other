@@ -24,6 +24,17 @@
     <li>
       <a href="#initial-testing">Initial testing</a>
     </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
+      </ul>
+    </li>
   </ul>
 </details>
 
@@ -155,6 +166,12 @@ Now the SNES is completely disassembled. The mainboard is now ready for inspecti
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Mainboard
+
+## Visual inspection
+
+## Checking the voltages
 
 <!-- MARK STOP -->
 
