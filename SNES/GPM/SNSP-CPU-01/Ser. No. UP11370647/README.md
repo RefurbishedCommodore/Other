@@ -202,7 +202,7 @@ For transparency: I actually did not notice the corroded trace at first. This wa
 | Video RAM | MOSEL | MS62256CL-10FC | W24 Y1992 | x2 |
 | Audio RAM | Hitachi | HM9453100FP | W16 Y1992 | x2 |
 | S-DSP | Sony | Unknown | Unknown | Marked: WWW21867X |
-| S-SMP | Sony | TBD | TBD |  |
+| S-SMP | Sony | Unknown | Unknown | Marked: 20P5Y|
 
 </div>
 
