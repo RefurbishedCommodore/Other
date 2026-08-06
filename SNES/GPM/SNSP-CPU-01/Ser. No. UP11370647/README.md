@@ -173,11 +173,18 @@ The mainboard is a SNSP-CPU-01, one of the early revisions of the mainboard.
 
 ## Visual inspection
 
-There is a substantial amount of dust and grease on the mainboard. This is not too serious, but there are some other areas which needs attention:
+There is a substantial amount of dust and grease on the mainboard. Also, there is quite a lot flux residue on the PCB (both front and back), but I think this is normal on SNES. This is not too serious, but there are some other areas which needs attention:
 
 - Capacitors C59, C60 and C61 have leaked
 - Corroded trace around pin 19 on the cartridge port
 
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main_02.jpeg" alt="Description" width="800">
+</p>
 
 
 ## Checking the voltages
