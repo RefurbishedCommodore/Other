@@ -178,6 +178,8 @@ There is a substantial amount of dust and grease on the mainboard. Also, there i
 - Capacitors C59, C60 and C61 have leaked
 - Corroded trace around pin 19 on the cartridge port
 
+For transparency: I actually did not notice the corroded trace at first. This was noticed by Mark from the YouTube channel "The Retro Channel" when discussing the fault issues on this SNES on Discord. Thanks! 
+
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="800">
 </p>
