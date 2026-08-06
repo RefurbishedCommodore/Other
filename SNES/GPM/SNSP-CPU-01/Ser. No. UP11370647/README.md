@@ -33,6 +33,9 @@
         <li>
           <a href="#checking-the-voltages">Checking the voltages</a>
         </li>
+        <li>
+          <a href="#removing-corrosion">Removing corrosion</a>
+        </li>
       </ul>
     </li>
   </ul>
@@ -188,8 +191,6 @@ For transparency: I actually did not notice the corroded trace at first. This wa
     <img src="Images/Main_02.jpeg" alt="Description" width="800">
 </p>
 
-
-
 <div align="center">
     
 | Chip/Area | Manufactor | Version | Date code | Note |
@@ -215,6 +216,10 @@ For transparency: I actually did not notice the corroded trace at first. This wa
 | VS | 9 V DC | TBD V | TBD V | Emitter Q18 |
 
 </div>
+
+## Removing corrosion
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
