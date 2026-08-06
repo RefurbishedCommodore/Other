@@ -142,13 +142,19 @@ Now the mainboard PCB is lifted from the bottom cover. Next action is to remove 
     <img src="Images/Dis_14.jpeg" alt="Description" width="600">
 </p>
 
-[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-
 To remove the RF-shield/hearsink marked "P1" the three machine screws[^8] at the underside of the mainboard are removed. **NOTE:** There are tooth washers on the screws.
 
 <p align="center">
     <img src="Images/Dis_15.jpeg" alt="Description" width="700">
 </p>
+
+Now the SNES is completely disassembled. The mainboard is now ready for inspection, and the top and bottom covers are ready for cleaning. 
+
+<p align="center">
+    <img src="Images/Dis_16.jpeg" alt="Description" width="700">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
