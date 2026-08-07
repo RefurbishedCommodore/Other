@@ -223,7 +223,7 @@ For transparency: I actually did not notice the corroded trace at first. This wa
 As identified during visual inspection, there are some corrosion on the trace leading to PIN #19 on the cartridge connector. Below is a close-up of the issue.
 
 <p align="center">
-    <img src="Images/Main_03.jpeg" alt="Description" width="800">
+    <img src="Images/Main_03.jpeg" alt="Description" width="900">
 </p>
 
 <!-- MARK STOP -->
