@@ -220,7 +220,7 @@ For transparency: I actually did not notice the corroded trace at first. This wa
 
 ## Removing corrosion
 
-As identified during visual inspection, there are some corrosion on the trace leading to PIN #19 on the cartridge connector. Below is a close-up of the issue.
+As identified during visual inspection, there are some corrosion on the trace leading to PIN #19 on the cartridge connector. If this trace is damaged, the SNES is likely to fail since the trace is data line #0 (D0) connecting to both Work RAM, CPU and PPU-1. Below is a close-up of the issue.
 
 <p align="center">
     <img src="Images/Main_03.jpeg" alt="Description" width="900">
