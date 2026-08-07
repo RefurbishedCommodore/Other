@@ -148,21 +148,21 @@ Before the mainboard PCB can be lifted from the bottom cover, the three remainin
     <img src="Images/Dis_13.jpeg" alt="Description" width="600">
 </p>
 
-<!-- MARK START -->
-
-Now the mainboard PCB is lifted from the bottom cover. Next action is to remove the screw[^7] on the 7805 voltage regulator which is mounted to the P1 RF-shield (which for the 7805 voltage regulator function as a heatsink). **NOTE:** There are two washers on the screw; one flat washer, and one spring lock washer. Also, for some reason, there are no thermal heat paste between the 7805 voltage regulator and the heatsink. 
+Now the mainboard PCB is lifted out of the bottom cover. The next step is to remove the screw[^7] securing the 7805 voltage regulator to the P1 RF shield, which also serves as its heatsink. **Note:** There are two washers on the screw: one flat washer and one spring lock washer. Also, for some reason, there is no thermal paste between the 7805 voltage regulator and the heatsink.
 
 <p align="center">
     <img src="Images/Dis_14.jpeg" alt="Description" width="600">
 </p>
 
-To remove the RF-shield/hearsink marked "P1" the three machine screws[^8] at the underside of the mainboard are removed. **NOTE:** There are tooth washers on the screws.
+To remove the RF shield/heatsink marked "P1", remove the three machine screws[^8] from the underside of the mainboard. **Note:** Each screw is fitted with a toothed lock washer.
 
 <p align="center">
     <img src="Images/Dis_15.jpeg" alt="Description" width="700">
 </p>
 
-Now the SNES is completely disassembled. The mainboard is now ready for inspection, and the top and bottom covers are ready for cleaning. **NOTE:** Before disassembly I noted some kind of rattling sound inside. But during disassembly I did not find anything loose inside (?). I might be that whatever was inside got lost during assembly, but I am not really sure...
+The SNES is now completely disassembled. The mainboard is ready for inspection, and the top and bottom covers are ready for cleaning.
+
+**Note:** Before disassembly, I noticed a faint rattling sound coming from inside the console. However, during disassembly I did not find anything loose. It is possible that whatever caused the noise became dislodged during disassembly, but I am not entirely sure.
 
 <p align="center">
     <img src="Images/Dis_16.jpeg" alt="Description" width="700">
@@ -172,16 +172,16 @@ Now the SNES is completely disassembled. The mainboard is now ready for inspecti
 
 # Mainboard
 
-The mainboard is a SNSP-CPU-01, one of the early revisions of the mainboard.
+The mainboard is an SNSP-CPU-01, one of the early revisions of the SNES mainboard.
 
 ## Visual inspection
 
-There is a substantial amount of dust and grease on the mainboard. Also, there is quite a lot flux residue on the PCB (both front and back), but I think this is normal on SNES. This is not too serious, but there are some other areas which needs attention:
+There is a substantial amount of dust and grease on the mainboard. There is also quite a lot of flux residue on both sides of the PCB, but I believe this is fairly typical for early SNES consoles. While this is not a serious issue, there are a couple of areas that require attention:
 
-- Capacitors C59, C60 and C61 have leaked
-- Corroded trace around pin 19 on the cartridge port
+- Capacitors C59, C60, and C61 have leaked.
+- A PCB trace around pin 19 of the cartridge connector is corroded.
 
-For transparency: I actually did not notice the corroded trace at first. This was noticed by Mark from the YouTube channel "The Retro Channel" when discussing the fault issues on this SNES on Discord. Thanks! 
+For transparency, I did not notice the corroded trace at first. It was pointed out by Mark from the YouTube channel The Retro Channel while we were discussing the fault on this SNES over Discord. Thanks, Mark!
 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="800">
@@ -220,11 +220,19 @@ For transparency: I actually did not notice the corroded trace at first. This wa
 
 ## Removing corrosion
 
-As identified during visual inspection, there are some corrosion on the trace leading to PIN #19 on the cartridge connector. If this trace is damaged, the SNES is likely to fail since the trace is data line #0 (D0) connecting to both Work RAM, CPU and PPU-1. Below is a close-up of the issue.
+As identified during the visual inspection, there is some corrosion on the trace leading to pin 19 of the cartridge connector. If this trace is damaged, the SNES is likely to fail, as it carries data line D0, connecting the CPU, Work RAM, and PPU-1.
+
+Below is a close-up of the affected area.
 
 <p align="center">
     <img src="Images/Main_03.jpeg" alt="Description" width="900">
 </p>
+
+<!-- MARK START -->
+
+
+
+
 
 <!-- MARK STOP -->
 
