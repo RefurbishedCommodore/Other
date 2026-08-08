@@ -230,7 +230,11 @@ Below is a close-up of the affected area.
 
 <!-- MARK START -->
 
+The area is first treated with vinegar to stop any corrosion. Then the area is scraped free from all the corrosion, and finally it is properly cleaned with isopropanol. Also, it turn out that there are no broken trace. This is a bit unfortunately since the black screen is still present after this repair.
 
+<p align="center">
+    <img src="Images/Main_04.jpeg" alt="Description" width="900">
+</p>
 
 
 
