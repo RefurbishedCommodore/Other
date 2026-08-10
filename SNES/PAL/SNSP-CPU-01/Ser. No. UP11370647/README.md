@@ -242,7 +242,7 @@ To support the troubleshooting some areas are checked and measured. See table be
 
 - Måle XIN på pin 48 CPU (target 21.4 MHz)
 - Sjekke at RESET virker
-- Sjekke SYSCLK på pin 72 (
+- Sjekke SYSCLK på pin 72 (denne skal flukturere mellom 3.58, 2.68 og 1.79 MHz). Hvis den er "stuck" i 2.68 MHz er det typisk tegn på "Black screen".
 
 <!-- MARK START -->
 
