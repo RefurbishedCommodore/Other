@@ -236,6 +236,13 @@ It also turns out that there is no broken trace. This is somewhat unfortunate, a
     <img src="Images/Main_04.jpeg" alt="Description" width="900">
 </p>
 
+## Initial measurements
+
+To support the troubleshooting some areas are checked and measured. See table below.
+
+- Måle XIN på pin 48 CPU (target 21.4 MHz)
+- Sjekke at RESET virker
+- Sjekke SYSCLK på pin 72 (
 
 <!-- MARK START -->
 
