@@ -164,6 +164,8 @@ The SNES is now completely disassembled. The mainboard is ready for inspection, 
 
 **Note:** Before disassembly, I noticed a faint rattling sound coming from inside the console. However, during disassembly I did not find anything loose. It is possible that whatever caused the noise became dislodged during disassembly, but I am not entirely sure.
 
+**Updated note:** It turns out that faint rattling sound came from a small plastic part. The casing is extremely brittle (I don´t think I have ever experienced so brittle plastic before), 
+
 <p align="center">
     <img src="Images/Dis_16.jpeg" alt="Description" width="700">
 </p>
