@@ -38,6 +38,14 @@
         </li>
       </ul>
     </li>
+    <li>
+      <a href="#casing">Casing</a>
+    </li>
+      <ul>
+        <li>
+          <a href="#disassembly">Disassembly</a>
+        </li>
+      </ul>
   </ul>
 </details>
 
@@ -253,8 +261,18 @@ To support the troubleshooting some areas are checked and measured. See table be
 
 </div>
 
-
 <!-- MARK START -->
+
+# Casing
+
+The casing is quite dirty, and part of the casing is severely yellowed. To refurbish the casing the plan is to completely disassemble the plastic parts, clean all parts and retrobright the yellowed part.
+
+**WARNING:** The plastic is very brittle! During disassembly some of the plastic broke (needs to be glued), but it is almost impossible not to break anything.
+
+## Disassembly
+
+
+
 
 <!-- MARK STOP -->
 
