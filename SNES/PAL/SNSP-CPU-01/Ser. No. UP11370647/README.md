@@ -244,7 +244,7 @@ To support the troubleshooting some areas are checked and measured. See table be
     
 | Area | Chip | Measure point | Measured value | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| Clock IN | CPU [U1] | XIN [PIN#48] | 21.46 MHz | Crystal frequency: 21.47727MH |
+| Clock IN | CPU [U1] | XIN [PIN#48] | 21.46 MHz | Target PAL XIN frequency: 21.281370 MHz |
 | System clock OUT | CPU [U1] | SYSCK [PIN#72] | 3.56 MHz | Stuck at this frequency.<br> Should vary between 3.58, 2.68 and 1.79 MHz |
 | Reset IN | CPU [U1] | /RESET [PIN#50] | 5 V | Pressing the RESET button the voltage drops to 0 V<br>as long as the button is pressed down. |
 | Cartridge port connectivity | N/A | [PIN#1 - PIN#62] | TBD | |
