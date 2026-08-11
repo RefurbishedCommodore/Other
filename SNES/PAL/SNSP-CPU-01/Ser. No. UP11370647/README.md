@@ -240,9 +240,16 @@ It also turns out that there is no broken trace. This is somewhat unfortunate, a
 
 To support the troubleshooting some areas are checked and measured. See table below.
 
-- Måle XIN på pin 48 CPU (target 21.4 MHz)
-- Sjekke at RESET virker
-- Sjekke SYSCLK på pin 72 (denne skal flukturere mellom 3.58, 2.68 og 1.79 MHz). Hvis den er "stuck" i 2.68 MHz er det typisk tegn på "Black screen".
+<div align="center">
+    
+| Area | Chip | Measure point | Measured value | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Clock IN | CPU [U1] | XIN [PIN#48] | 21.46 MHz | Crystal frequency: 21.47727MH |
+| System clock OUT | CPU [U1] | SYSCK [PIN#72] | 3.56 MHz | Stuck at this frequency.<br> Should vary between 3.58, 2.68 and 1.79 MHz |
+| Reset IN | CPU [U1] | /RESET [PIN#50] | 5 V | Pressing the RESET button the voltage drops to 0 V<br>as long as the button is pressed down. |
+
+</div>
+
 
 <!-- MARK START -->
 
