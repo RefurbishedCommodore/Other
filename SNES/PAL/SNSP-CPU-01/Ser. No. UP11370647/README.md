@@ -269,6 +269,15 @@ The casing is quite dirty, and part of the casing is severely yellowed. To refur
 
 **WARNING:** The plastic is very brittle! During disassembly some of the plastic broke (needs to be glued), but it is almost impossible not to break anything.
 
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="700">
+</p>
+
+<p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="700">
+</p>
+
 ## Disassembly
 
 
