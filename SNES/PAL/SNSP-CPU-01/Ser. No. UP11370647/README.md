@@ -282,6 +282,9 @@ The casing is quite dirty, and part of the casing is severely yellowed. To refur
 
 All the smaller plastic parts are detached from the top cover (and one part from the bottom cover). Disassembling is not complex, but great care must be taken to not damage the brittle plastic. There are several clips holding the parts in place, and a firm push on all of these (in sequence) will release all the parts. Also, there is one screw holding the eject-arm.
 
+<p align="center">
+    <img src="Images/Case_03.jpeg" alt="Description" width="700">
+</p>
 
 <!-- MARK STOP -->
 
