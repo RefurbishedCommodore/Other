@@ -257,7 +257,8 @@ To support the troubleshooting some areas are checked and measured. See table be
 | Clock IN | CPU [U1] | XIN [PIN#48] | 21.46 MHz | Target PAL XIN frequency: 21.281370 MHz |
 | System clock OUT | CPU [U1] | SYSCK [PIN#72] | 3.56/2.66 MHz | Stuck at this frequency for some cart (Super Mario Kart).<br> Varies between 3.58/2.68 for other carts<br> Should vary between 3.58, 2.68 and 1.79 MHz |
 | Reset IN | CPU [U1] | /RESET [PIN#50] | 5 V | Pressing the RESET button the voltage drops to 0 V<br>as long as the button is pressed down. |
-| Cartridge port connectivity | N/A | [PIN#1 - PIN#62] | TBD | |
+| Data lines | CPU [U1] | D0-D7 [PIN#60-67] | 0-5 V | Appears to be normal activity. |
+| Address lines | CPU [U1] | CA0-CA23 [PIN#93-100/2-17] | 0-5 V | Appears to be normal activity. |
 
 </div>
 
