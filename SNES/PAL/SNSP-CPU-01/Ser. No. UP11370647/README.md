@@ -258,7 +258,8 @@ To support the troubleshooting some areas are checked and measured. See table be
 | System clock OUT | CPU [U1] | SYSCK [PIN#72] | 3.56/2.66 MHz | Stuck at this frequency for some cart (Super Mario Kart).<br> Varies between 3.58/2.68 for other carts<br> Should vary between 3.58, 2.68 and 1.79 MHz |
 | Reset IN | CPU [U1] | /RESET [PIN#50] | 5 V | Pressing the RESET button the voltage drops to 0 V<br>as long as the button is pressed down. |
 | Data lines | CPU [U1] | D0-D7 [PIN#60-67] | 0-5 V | Appears to be normal activity. |
-| Address lines | CPU [U1] | CA0-CA23 [PIN#93-100/2-17] | 0-5 V | Appears to be normal activity. |
+| Address lines (A)| CPU [U1] | CA0-CA23 [PIN#93-100/2-17] | 0-5 V | Appears to be normal activity. <br> Communication with WRAM and CART. |
+| Address lines (B)| CPU [U1] | PA0-CA7 [PIN#51-58] | TBD | TBD<br> Communication with PPU,AMU. |
 
 </div>
 
