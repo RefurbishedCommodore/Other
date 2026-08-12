@@ -259,7 +259,7 @@ To support the troubleshooting some areas are checked and measured. See table be
 | Reset IN | CPU [U1] | /RESET [PIN#50] | 5 V | Pressing the RESET button the voltage drops to 0 V as long as the button is pressed down. |
 | Data lines | CPU [U1] | D0-D7 [PIN#60-67] | 0-5 V | Appears to be normal activity. |
 | Address lines (A)| CPU [U1] | CA0-CA23 [PIN#93-100/2-17] | 0-5 V | Appears to be normal activity. <br> Communication with WRAM and CART. |
-| Address lines (B)| CPU [U1] | PA0-CA7 [PIN#51-58] | TBD | TBD<br> Communication with PPU,AMU. |
+| Address lines (B)| CPU [U1] | PA0-CA7 [PIN#51-58] | 0-5 V | Appears to be normal activity.<br> Communication with PPU,AMU. |
 
 </div>
 
