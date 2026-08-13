@@ -263,6 +263,15 @@ To support the troubleshooting some areas are checked and measured. See table be
 
 </div>
 
+
+Make sure there is a working game cartridge that matches the region of the device is inserted properly (yes, sometimes problems are this simpel)
+Make sure the cartridge slot is clean
+Optically inspect the cartridge slot to make sure it has no bent pins. All pins should be identical.
+Check that the /RESET line (pin 10 on the CIC chip (U8), 34 on PPU2 (U3)) is high after turning the device on (with a cartridge in). If it is not, the CIC chip may hold the RESET line low because it cannot communicate with the cartridge properly. Try cleaning the cartridge slot or try a different cartridge.
+Check that the /RESOUT0 line (pin 33 on the PPU2 (U3)) and /RESOUT1 line (pin 28 on the PPU2 (U3)) are high after turning the device on (with a cartridge in). If they are low, while the /RESET line (see above) from the CIC chip (U8) is high), replace the PPU2 chip.
+Check activity on the PPU2. Check if signals are output through the RGB and CSYNC output pins 95, 96, 97, and 100 of the PPU2 (U3). If there is no data, replace PPU2. If there is data, replace S-ENC (U7).
+
+
 <!-- MARK START -->
 
 # Casing
