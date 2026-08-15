@@ -297,6 +297,13 @@ All the smaller plastic parts are detached from the top cover (and one part from
     <img src="Images/Case_03.jpeg" alt="Description" width="700">
 </p>
 
+## Cleaning
+
+All the parts are placed in mild soapy water for about 48 hours. This will remove most of the dust and grime. After the long bath, the parts are cleaned individually with more soap and some isopropanol for the most stubborn marks.
+
+Below is a picture of the parts after cleaning.
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
