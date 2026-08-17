@@ -317,8 +317,15 @@ Below are some pictures of the parts after cleaning.
 The top and bottom cover is quite yellowed, and in need of some retrobrighting. The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
 
 <p align="center">
-    <img src="Images/Case_06.jpeg" alt="Description" width="800">
+    <img src="Images/Case_06.jpeg" alt="Description" width="700">
 </p>
+
+After retrobrighting, and another round of cleaning, the covers looks way better. Not all the yellowing is gone, but it is significantly better and probably as "good-as-it-gets".
+
+<p align="center">
+    <img src="Images/Case_07.jpeg" alt="Description" width="700">
+</p>
+
 
 <!-- MARK STOP -->
 
