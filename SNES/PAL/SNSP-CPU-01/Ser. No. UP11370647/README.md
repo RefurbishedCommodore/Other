@@ -45,6 +45,9 @@
         <li>
           <a href="#disassembly">Disassembly</a>
         </li>
+        <li>
+          <a href="#cleaning-and-retrobrighting-the-covers">Cleaning and retrobrighting the covers</a>
+        </li>
       </ul>
   </ul>
 </details>
@@ -297,11 +300,11 @@ All the smaller plastic parts are detached from the top cover (and one part from
     <img src="Images/Case_03.jpeg" alt="Description" width="700">
 </p>
 
-## Cleaning
+## Cleaning and retrobrighting the covers
 
-All the parts are placed in mild soapy water for about 48 hours. This will remove most of the dust and grime. After the long bath, the parts are cleaned individually with more soap and some isopropanol for the most stubborn marks.
+All the parts are placed in mild soapy water for about 48 hours. This will remove most of the dust and grime. After the long bath, the parts are cleaned individually with more soap and some isopropanol for the most stubborn marks. The four rubber feet are also removed before cleaning, as they can become "sticky" if exposed to retrobrighting chemicals.
 
-Below are some pictures of the parts after cleaning.
+Below are some pictures of the parts after cleaning. 
 
 <p align="center">
     <img src="Images/Case_04.jpeg" alt="Description" width="700">
@@ -311,6 +314,11 @@ Below are some pictures of the parts after cleaning.
     <img src="Images/Case_05.jpeg" alt="Description" width="700">
 </p>
 
+The top and bottom cover is quite yellowed, and in need of some retrobrighting. The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
+
+<p align="center">
+    <img src="Images/Case_06.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
