@@ -19,6 +19,9 @@
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
+    </li>            
+    <li>
       <a href="#disassembly">Disassembly</a>
     </li>
     <li>
@@ -70,6 +73,19 @@ Below are some pictures of the SNES before refurbishment.
     <img src="Images/Start_06.jpeg" alt="Description" width="800">
     <img src="Images/Start_01.jpeg" alt="Description" width="600">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Refurbishment activities
+
+The planned refurbishment activities for this Suoer Nintendo are listed below. The order may vary, and several activities may be carried out in parallel:
+
+- [ ] Refurbish the casing
+- [ ] Refurbish mainboard
+- [ ] Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that need special attention.
+<br>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
