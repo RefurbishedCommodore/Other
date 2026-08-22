@@ -151,6 +151,13 @@ The mainboard is an SNSP-CPU-01, one of the early revisions of the SNES mainboar
 
 There is a substantial amount of dust and grime on the mainboard. There is also quite a lot of flux residue on both sides of the PCB, but I believe this is fairly typical for early SNES consoles. 
 
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Main_02.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
