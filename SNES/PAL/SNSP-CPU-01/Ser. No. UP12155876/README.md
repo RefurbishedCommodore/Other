@@ -141,7 +141,11 @@ To remove the RF shield/heatsink also marked "P1", remove the three machine scre
     <img src="Images/Dis_10.jpeg" alt="Description" width="700">
 </p>
 
+The SNES is now completely disassembled. The mainboard is ready for inspection, and the top and bottom covers are ready for cleaning.
 
+<p align="center">
+    <img src="Images/Dis_11.jpeg" alt="Description" width="700">
+</p>
 
 # Mainboard
 
