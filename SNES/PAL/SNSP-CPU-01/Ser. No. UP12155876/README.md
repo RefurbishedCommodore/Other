@@ -111,6 +111,8 @@ Removing the cartridge eject mechanism is straightforward:
     <img src="Images/Dis_07.jpeg" alt="Description" width="800">
 </p>
 
+With the cartridge eject mechanism out of the way, the next step is to remove the first RF shield (P2) and the cartridge port connector. The RF shield is secured to the PCB with four screws[^3], while the cartridge port connector is secured with two screws[^4].
+
 <!-- MARK STOP -->
 
 **Footnotes**
