@@ -98,7 +98,7 @@ First, the ribbon cable for the controller port PCB is disconnected (1). Next, t
 The top cover appears to be in good mechanical condition without any major cracks or damage.
 
 <p align="center">
-    <img src="Images/Dis_05.jpeg" alt="Description" width="600">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="600">
 </p>
 
 
