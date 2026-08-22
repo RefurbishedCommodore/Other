@@ -124,7 +124,7 @@ First, the ribbon cable for the controller port PCB is disconnected (1). Next, t
     <img src="Images/Dis_05.jpeg" alt="Description" width="1000">
 </p>
 
-The top cover appears to be in good mechanical condition, with no obvious signs of cracks or other damage.
+The top cover appears to be in ok mechanical condition. I can see that the top left (seen from beneath) screw post is cracked. But other than that the covers appear to without any major cracks or damage.
 
 <p align="center">
     <img src="Images/Dis_03.jpeg" alt="Description" width="600">
