@@ -101,6 +101,15 @@ The top cover appears to be in good mechanical condition without any major crack
     <img src="Images/Dis_06.jpeg" alt="Description" width="600">
 </p>
 
+Removing the cartridge eject mechanism is straightforward:
+
+1) Lift the metal rod on the right-hand side out of the plastic holder.
+2) Slide the large plastic part out of the holder on the left-hand side.
+3) Remove the metal spring.
+
+<p align="center">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
