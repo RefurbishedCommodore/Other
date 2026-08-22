@@ -18,6 +18,9 @@
     <li>
       <a href="#starting-point">Starting point</a>
     </li>
+    <li>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
+    </li>      
   </ul>
 </details>
 
@@ -37,8 +40,6 @@ But on the bright side (no pun intended) the SNES seems to be in good mechanical
 
 ❤️ - This SNES is special. It will be used to help another SNES to be repaired! By moving some of the functioning chips from this SNES to a broken SNES, it will make it easier to identify which chips are faulty on the broken SNES. What a beautiful way to serve another SNES! But this will mean that this SNES will be not-working then? Yes, for a while. But eventually new chip(s) will be sourced for this SNES also.
 
-
-
 <p align="center">
     <img src="Images/Start_01.jpeg" alt="Description" width="600">
     <img src="Images/Start_02.jpeg" alt="Description" width="800">
@@ -50,5 +51,25 @@ But on the bright side (no pun intended) the SNES seems to be in good mechanical
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Refurbishment activities
+
+The planned refurbishment activities for this Suoer Nintendo are listed below. The order may vary, and several activities may be carried out in parallel:
+
+- [ ] Refurbish the casing
+- [ ] Refurbish mainboard
+- [ ] Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that need special attention.
+<br>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
+
+
+
+
+
+
+
+
