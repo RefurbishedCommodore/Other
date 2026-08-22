@@ -111,7 +111,9 @@ Removing the cartridge eject mechanism is straightforward:
     <img src="Images/Dis_07.jpeg" alt="Description" width="800">
 </p>
 
-With the cartridge eject mechanism out of the way, the next step is to remove the first RF shield (P2) and the cartridge port connector. The RF shield is secured to the PCB with four screws[^3], while the cartridge port connector is secured with two screws[^4].
+With the cartridge eject mechanism out of the way, the next step is to remove the first RF shield (P1) and the cartridge port connector. The RF shield is secured to the PCB with four screws[^3], while the cartridge port connector is secured with two screws[^4].
+
+When the RF shield (P1) is removed, a large section of the PCB is revealed. As can be seen from the picture below, this is an SNSP-CPU-01 mainboard. This is one of the earlier revisions of the SNES mainboard.
 
 <!-- MARK STOP -->
 
