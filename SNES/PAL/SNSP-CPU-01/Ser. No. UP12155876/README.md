@@ -127,6 +127,12 @@ Now the mainboard PCB is lifted out of the bottom cover. The next step is to rem
     <img src="Images/Dis_09.jpeg" alt="Description" width="800">
 </p>
 
+To remove the RF shield/heatsink also marked "P1", remove the three machine screws[^8] from the underside of the mainboard. **Note:** Each screw is fitted with a toothed lock washer.
+
+<p align="center">
+    <img src="Images/Dis_10.jpeg" alt="Description" width="700">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
