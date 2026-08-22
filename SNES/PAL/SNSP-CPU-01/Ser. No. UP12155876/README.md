@@ -35,7 +35,7 @@ The yellowing is very interesting. Some parts have yellowed more than others:
 
 But on the bright side (no pun intended) the SNES seems to be in good mechanical condition. I can not see any cracks or damage. There are some signs of tear and wear, but not something severe as far as I can see. 
 
-This SNES is also special: it will be used to help another SNES to be repaired! By moving some of the functioning chips from this SNES to a broken SNES, it will make it easier to identify which chips are faulty on the broken SNES. What a beautiful way to serve another SNES! But this will mean that this SNES will be not-working then? Yes, for a while. But eventually new chip(s) will be sourced for this SNES also.
+❤️ - This SNES is special. It will be used to help another SNES to be repaired! By moving some of the functioning chips from this SNES to a broken SNES, it will make it easier to identify which chips are faulty on the broken SNES. What a beautiful way to serve another SNES! But this will mean that this SNES will be not-working then? Yes, for a while. But eventually new chip(s) will be sourced for this SNES also.
 
 
 
