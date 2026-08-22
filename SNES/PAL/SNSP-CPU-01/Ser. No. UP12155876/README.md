@@ -149,7 +149,7 @@ The mainboard is an SNSP-CPU-01, one of the early revisions of the SNES mainboar
 
 ## Visual inspection
 
-There is a substantial amount of dust and grime on the mainboard. There is also quite a lot of flux residue on both sides of the PCB, but I believe this is fairly typical for early SNES consoles. 
+There is a substantial amount of dust and grime on the mainboard. There is also quite a lot of flux residue on both sides of the PCB, but I believe this is fairly typical for early SNES consoles. Something I notice is that it doesn´t look like the electrolytic capacitors have leaked. Each of the solder points on the capacitors looks shiny - no obvious sign of leakage.
 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="800">
