@@ -274,15 +274,11 @@ Check that the /RESET line (pin 10 on the CIC chip (U8), 34 on PPU2 (U3)) is hig
 Check that the /RESOUT0 line (pin 33 on the PPU2 (U3)) and /RESOUT1 line (pin 28 on the PPU2 (U3)) are high after turning the device on (with a cartridge in). If they are low, while the /RESET line (see above) from the CIC chip (U8) is high), replace the PPU2 chip.
 Check activity on the PPU2. Check if signals are output through the RGB and CSYNC output pins 95, 96, 97, and 100 of the PPU2 (U3). If there is no data, replace PPU2. If there is data, replace S-ENC (U7).
 
-
-<!-- MARK START -->
-
 # Casing
 
-The casing is quite dirty, and part of the casing is severely yellowed. To refurbish the casing the plan is to completely disassemble the plastic parts, clean all parts and retrobright the yellowed part.
+The casing is quite dirty, and parts of it are severely yellowed. To refurbish the casing, the plan is to completely disassemble the plastic parts, clean all the components, and retrobright the yellowed parts.
 
-**WARNING:** The plastic is very brittle! During disassembly some of the plastic broke (needs to be glued), but it is almost impossible not to break anything.
-
+**WARNING**: The plastic is very brittle! Some of the plastic broke during disassembly and will need to be glued back together. It is almost impossible to avoid breaking something.
 
 <p align="center">
     <img src="Images/Case_01.jpeg" alt="Description" width="700">
@@ -294,7 +290,7 @@ The casing is quite dirty, and part of the casing is severely yellowed. To refur
 
 ## Disassembly
 
-All the smaller plastic parts are detached from the top cover (and one part from the bottom cover). Disassembling is not complex, but great care must be taken to not damage the brittle plastic. There are several clips holding the parts in place, and a firm push on all of these (in sequence) will release all the parts. Also, there is one screw holding the eject-arm.
+All the smaller plastic parts are detached from the top cover (and one part from the bottom cover). Disassembly is not particularly complex, but great care must be taken to avoid damaging the brittle plastic. There are several clips holding the parts in place, and applying firm pressure to each of them in sequence will release the parts. There is also one screw securing the eject arm.
 
 <p align="center">
     <img src="Images/Case_03.jpeg" alt="Description" width="700">
@@ -302,9 +298,9 @@ All the smaller plastic parts are detached from the top cover (and one part from
 
 ## Cleaning and retrobrighting the covers
 
-All the parts are placed in mild soapy water for about 48 hours. This will remove most of the dust and grime. After the long bath, the parts are cleaned individually with more soap and some isopropanol for the most stubborn marks. The four rubber feet are also removed before cleaning, as they can become "sticky" if exposed to retrobrighting chemicals.
+All the parts are placed in mild soapy water for about 48 hours. This removes most of the dust and grime. After the long bath, the parts are cleaned individually with additional soap and isopropanol to remove the most stubborn marks. The four rubber feet are also removed before cleaning, as they can become "sticky" if exposed to the chemicals used during retrobrighting.
 
-Below are some pictures of the parts after cleaning. 
+Below are some pictures of the parts after cleaning.
 
 <p align="center">
     <img src="Images/Case_04.jpeg" alt="Description" width="700">
@@ -314,18 +310,19 @@ Below are some pictures of the parts after cleaning.
     <img src="Images/Case_05.jpeg" alt="Description" width="700">
 </p>
 
-The top and bottom cover is quite yellowed, and in need of some retrobrighting. The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
+The top and bottom covers are quite yellowed and in need of some retrobrighting. The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
 
 <p align="center">
     <img src="Images/Case_06.jpeg" alt="Description" width="700">
 </p>
 
-After retrobrighting, and another round of cleaning, the covers looks way better. Not all the yellowing is gone, but it is significantly better and probably as "good-as-it-gets".
+After retrobrighting and another round of cleaning, the covers look much better. Not all of the yellowing is gone, but the result is significantly better and probably as "good as it gets."
 
 <p align="center">
     <img src="Images/Case_07.jpeg" alt="Description" width="700">
 </p>
 
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
