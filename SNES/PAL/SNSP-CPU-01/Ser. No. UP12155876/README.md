@@ -115,6 +115,10 @@ With the cartridge eject mechanism out of the way, the next step is to remove th
 
 When the RF shield (P1) is removed, a large section of the PCB is revealed. As can be seen from the picture below, this is an SNSP-CPU-01 mainboard. This is one of the earlier revisions of the SNES mainboard.
 
+<p align="center">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
