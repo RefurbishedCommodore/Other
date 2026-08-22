@@ -149,12 +149,8 @@ The mainboard is an SNSP-CPU-01, one of the early revisions of the SNES mainboar
 
 ## Visual inspection
 
-There is a substantial amount of dust and grease on the mainboard. There is also quite a lot of flux residue on both sides of the PCB, but I believe this is fairly typical for early SNES consoles. While this is not a serious issue, there are a couple of areas that require attention:
+There is a substantial amount of dust and grime on the mainboard. There is also quite a lot of flux residue on both sides of the PCB, but I believe this is fairly typical for early SNES consoles. 
 
-- Capacitors C59, C60, and C61 have leaked.
-- A PCB trace around pin 19 of the cartridge connector is corroded.
-
-For transparency, I did not notice the corroded trace at first. It was pointed out by Mark from the YouTube channel The Retro Channel while we were discussing the fault on this SNES over Discord. Thanks, Mark!
 
 <!-- MARK STOP -->
 
