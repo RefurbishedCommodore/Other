@@ -159,9 +159,9 @@ There is a substantial amount of dust and grime on the mainboard. There is also 
     <img src="Images/Main_02.jpeg" alt="Description" width="800">
 </p>
 
-<div align="center">
-
 The table below lists all major ICs found on the mainboard.
+
+<div align="center">
     
 | Chip/Area | Manufactor | Version | Date code | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
