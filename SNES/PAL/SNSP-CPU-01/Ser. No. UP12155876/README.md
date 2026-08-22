@@ -23,7 +23,15 @@
     </li>      
     <li>
       <a href="#disassembly">Disassembly</a>
-    </li>      
+    </li> 
+    <li>
+      <a href="#mainboard">Mainboard</a>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+      </ul>
+    </li>
   </ul>
 </details>
 
@@ -132,6 +140,21 @@ To remove the RF shield/heatsink also marked "P1", remove the three machine scre
 <p align="center">
     <img src="Images/Dis_10.jpeg" alt="Description" width="700">
 </p>
+
+
+
+# Mainboard
+
+The mainboard is an SNSP-CPU-01, one of the early revisions of the SNES mainboard.
+
+## Visual inspection
+
+There is a substantial amount of dust and grease on the mainboard. There is also quite a lot of flux residue on both sides of the PCB, but I believe this is fairly typical for early SNES consoles. While this is not a serious issue, there are a couple of areas that require attention:
+
+- Capacitors C59, C60, and C61 have leaked.
+- A PCB trace around pin 19 of the cartridge connector is corroded.
+
+For transparency, I did not notice the corroded trace at first. It was pointed out by Mark from the YouTube channel The Retro Channel while we were discussing the fault on this SNES over Discord. Thanks, Mark!
 
 <!-- MARK STOP -->
 
