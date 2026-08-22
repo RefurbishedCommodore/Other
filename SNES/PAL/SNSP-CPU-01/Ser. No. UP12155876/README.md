@@ -160,6 +160,8 @@ There is a substantial amount of dust and grime on the mainboard. There is also 
 </p>
 
 <div align="center">
+
+The table below lists all major ICs found on the mainboard.
     
 | Chip/Area | Manufactor | Version | Date code | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -173,6 +175,7 @@ There is a substantial amount of dust and grime on the mainboard. There is also 
 | S-SMP | Sony | Unknown | Unknown | Marked: 231B01E|
 
 </div>
+
 <!-- MARK STOP -->
 
 **Footnotes**
