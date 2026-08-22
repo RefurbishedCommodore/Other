@@ -159,6 +159,20 @@ There is a substantial amount of dust and grime on the mainboard. There is also 
     <img src="Images/Main_02.jpeg" alt="Description" width="800">
 </p>
 
+<div align="center">
+    
+| Chip/Area | Manufactor | Version | Date code | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | Nintendo(Ricoh) | S-CPU A<br>5A22-02 | Unknown | |
+| PPU#1 | Nintendo(Ricoh) | S-PPU1<br>5C77-01 | Unknown | |
+| PPU#2 | Nintendo(Ricoh) | S-PPU2 B<br>5C78-03 | Unknown | |
+| Work RAM | Nintendo | S-WRAM | W35 Y1992 | |
+| Video RAM | CSI | CAT71C256LLK-12 | W24 Y1992 | x2 |
+| Audio RAM | LSI Logic | LH5P832N-127 | Unknown | x2 |
+| S-DSP | Sony | Unknown | Unknown | Marked: 207A51V |
+| S-SMP | Sony | Unknown | Unknown | Marked: 231B01E|
+
+</div>
 <!-- MARK STOP -->
 
 **Footnotes**
