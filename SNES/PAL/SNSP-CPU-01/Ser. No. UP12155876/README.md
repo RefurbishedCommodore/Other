@@ -82,7 +82,7 @@ With the Gamebit screws out of the way, the top cover is lifted off, exposing th
 </p>
 
 <p align="center">
-    <img src="Images/Dis_03.jpeg" alt="Description" width="400">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="600">
 </p>
 
 <!-- MARK STOP -->
