@@ -75,6 +75,16 @@ To start disassembling the SNES, remove the six Gamebit screws[^1]. Note that yo
     <img src="Images/Dis_01.jpeg" alt="Description" width="600">
 </p>
 
+With the Gamebit screws out of the way, the top cover is lifted off, exposing the interior. As expected, I can see a fair amount of dust and grease inside. There seems to be a whole family of dust bunnies.
+
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="400">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
