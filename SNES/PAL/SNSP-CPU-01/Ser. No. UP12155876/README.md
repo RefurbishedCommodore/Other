@@ -21,6 +21,8 @@
   </ul>
 </details>
 
+<!-- MARK START -->
+
 # Starting point
 
 <p align="center">
@@ -33,3 +35,6 @@
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+<!-- MARK STOP -->
