@@ -81,11 +81,20 @@ With the Gamebit screws out of the way, the top cover is lifted off, exposing th
     <img src="Images/Dis_02.jpeg" alt="Description" width="600">
 </p>
 
+First, the ribbon cable for the controller port PCB is disconnected (1). Next, the two screws securing the power switch are removed[^2] (2). The power switch cable can also be disconnected from the mainboard (3) at this point (optional). See the pictures below.
+
 <p align="center">
     <img src="Images/Dis_03.jpeg" alt="Description" width="600">
 </p>
 
-First, the ribbon cable for the controller port PCB is disconnected (1). Next, the two screws securing the power switch are removed[^2] (2). The power switch cable can also be disconnected from the mainboard (3) at this point (optional). See the pictures below.
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="600">
+</p>
+
 
 <!-- MARK STOP -->
 
