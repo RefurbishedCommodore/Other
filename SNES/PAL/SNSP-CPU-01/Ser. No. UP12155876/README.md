@@ -30,6 +30,9 @@
         <li>
           <a href="#visual-inspection">Visual inspection</a>
         </li>
+        <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
       </ul>
     </li>
   </ul>
