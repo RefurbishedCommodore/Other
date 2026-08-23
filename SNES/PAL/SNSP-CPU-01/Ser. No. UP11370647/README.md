@@ -265,6 +265,8 @@ It also turns out that there is no broken trace. This is somewhat unfortunate, a
     <img src="Images/Main_04.jpeg" alt="Description" width="900">
 </p>
 
+During the repair I notice more corrosion on the board. Still no broken traces, but nevertheless something that needs to be fixed. 
+
 ## Initial measurements
 
 To support the troubleshooting some areas are checked and measured. See table below.
