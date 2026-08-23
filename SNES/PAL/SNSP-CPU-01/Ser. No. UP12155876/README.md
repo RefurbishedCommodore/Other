@@ -180,6 +180,17 @@ The table below lists all major ICs found on the mainboard.
 
 </div>
 
+## Checking the voltages
+
+<div align="center">
+  
+| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| 7805 IN | <10 V DC | 7.190 V | TBD  V | PIN#1 7805(U12) |
+| VCC | 5 V DC | 4.986 V | TBD  V | PIN#3 7805(U12) |
+| VS | <10 V DC | 6.401 V | TBD V | Emitter Q18 |
+
+</div>
 <!-- MARK STOP -->
 
 **Footnotes**
