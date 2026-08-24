@@ -37,6 +37,11 @@
     </li>
     <li>
       <a href="#casing">Casing</a>
+      <ul>
+        <li>
+          <a href="#disassembly">Disassembly</a>
+        </li>
+      </ul>    
     </li> 
   </ul>
 </details>
@@ -206,6 +211,13 @@ The casing is quite dirty, and the yellowing is all over the place: the bottom c
 
 **WARNING**: The plastic is very brittle! It is VERY easy to break small plastic parts unless your are careful.
 
+## Disassembly
+
+All the smaller plastic parts are detached from the top cover (and one part from the bottom cover). Disassembly is not particularly complex, but great care must be taken to avoid damaging the brittle plastic. There are several clips holding the parts in place, and applying firm pressure to each of them in sequence will release the parts. There is also one screw securing the eject arm.
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="700">
+</p>
 
 **Footnotes**
 [^1]: Gamebit pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.0 mm
