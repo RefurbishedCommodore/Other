@@ -35,6 +35,9 @@
         </li>
       </ul>
     </li>
+    <li>
+      <a href="#casing">Casing</a>
+    </li> 
   </ul>
 </details>
 
@@ -195,6 +198,14 @@ The table below lists all major ICs found on the mainboard.
 
 </div>
 <!-- MARK STOP -->
+
+
+# Casing
+
+The casing is quite dirty, and the yellowing is all over the place: the bottom cover is severely yellowed, the top cover is less yellowed and the front panel with the "SUPER NINTENDO" logo is medium yellowed.
+
+**WARNING**: The plastic is very brittle! It is VERY easy to break small plastic parts unless your are careful.
+
 
 **Footnotes**
 [^1]: Gamebit pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.0 mm
