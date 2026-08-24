@@ -26,7 +26,10 @@
 
 -----
 
-
+[![Name](https://img.shields.io/badge/Serial_No.-UP12155876-white?style=plastic)](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md)
+<br>
+![Name](https://img.shields.io/badge/Revision-SNSP_CPU_01-white?style=plastic)
+![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
 # List - archived
 
