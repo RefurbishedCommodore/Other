@@ -93,6 +93,8 @@ Before opening the SNES, the console is connected to a TV, powered on, and teste
 - With a game cartridge installed: **POWER LED ON, VIDEO, AUDIO** (Gameplay seems to be working fine)
 - With the Burn-in test cartridge installed: **POWER LED ON, VIDEO, AUDIO** (All tests pass)
 
+The console seems to be working as it should from an initial testing perspective. There can be other issues which will be found during the "Testing and validation" performed stage later.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Disassembly
