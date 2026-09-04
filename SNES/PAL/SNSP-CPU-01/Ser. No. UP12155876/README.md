@@ -86,6 +86,15 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Initial testing
+
+Before opening the SNES, the console is connected to a TV, powered on, and tested. The results are as follows:
+
+- With a game cartridge installed: **POWER LED ON, VIDEO, AUDIO** (Gameplay seems to be working fine)
+- With the Burn-in test cartridge installed: **POWER LED ON, VIDEO, AUDIO** (All tests pass)
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Disassembly
 
 To start disassembling the SNES, remove the six Gamebit screws[^1]. Note that you will need a special tool for this operation: a 4.5 mm Gamebit screwdriver.
