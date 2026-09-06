@@ -300,10 +300,14 @@ There are no clear indications from these measurements as to what is causing the
 
 Desoldering a 100-pin chip is a first for me. I eventually managed to get it desoldered, but it was not as easy as I had anticipated. But this is the way it must be. Learning is hard!
 
-Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the picture below.
+Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the pictures below.
 
 <!-- MARK START -->
 
+<p align="center" float="left">
+    <img src="Images/Main_07.jpeg" alt="Description" width="500">
+    <img src="Images/Main_08.jpeg" alt="Description" width="500">
+</p>
 
 
 
