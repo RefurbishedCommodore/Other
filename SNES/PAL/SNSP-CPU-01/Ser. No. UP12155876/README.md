@@ -94,7 +94,7 @@ Before opening the SNES, the console is connected to a TV, powered on, and teste
 - With the Burn-in test cartridge installed: **POWER LED ON, VIDEO, AUDIO** (All tests pass)
 
 <p align="center">
-    <img src="Images/Init_01.jpeg" alt="Description" width="600">
+    <img src="Images/Init_01.png" alt="Description" width="600">
 </p>
 
 The console seems to be working as it should from an initial testing perspective. There can be other issues which will be found during the "Testing and validation" performed stage later.
