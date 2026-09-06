@@ -293,15 +293,18 @@ To support the troubleshooting some areas are checked and measured. See table be
 
 </div>
 
-<!-- MARK START -->
+There are no clear indications from these measurements as to what is causing the black screen. From some Google searching, I know that there are many SNES consoles with a black screen where the culprit is either a faulty CPU-A or PPU-1. So, I will start by replacing these.
 
-There are no clear indication from these measurements what causes the black screen. I know from some Google searching that there are many SNES with black screen where the culprit is either a bad CPU-A or a PPU-1. So I will start with replacing these. 
 
 ## Replacing the CPU-A
 
-Desoldering a 100-pin chip is a first for me. I managed to eventually get it desoldered, but it was not as easy as I had anticipated. But, this is the way it must be. Learning is hard!
+Desoldering a 100-pin chip is a first for me. I eventually managed to get it desoldered, but it was not as easy as I had anticipated. But this is the way it must be. Learning is hard!
 
-To remove the CPU-A chip plenty of flux is added to all the pins, and then hot air (from 370 - 390 degrees) are applied in a circular motion. The chip is lifted with a pair of tweezers, and the are is cleaned with desoldering wick and isopropanol. See piture below.
+Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the picture below.
+
+<!-- MARK START -->
+
+
 
 
 
