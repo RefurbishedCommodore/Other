@@ -293,13 +293,17 @@ To support the troubleshooting some areas are checked and measured. See table be
 
 </div>
 
+<!-- MARK START -->
 
-Make sure there is a working game cartridge that matches the region of the device is inserted properly (yes, sometimes problems are this simpel)
-Make sure the cartridge slot is clean
-Optically inspect the cartridge slot to make sure it has no bent pins. All pins should be identical.
-Check that the /RESET line (pin 10 on the CIC chip (U8), 34 on PPU2 (U3)) is high after turning the device on (with a cartridge in). If it is not, the CIC chip may hold the RESET line low because it cannot communicate with the cartridge properly. Try cleaning the cartridge slot or try a different cartridge.
-Check that the /RESOUT0 line (pin 33 on the PPU2 (U3)) and /RESOUT1 line (pin 28 on the PPU2 (U3)) are high after turning the device on (with a cartridge in). If they are low, while the /RESET line (see above) from the CIC chip (U8) is high), replace the PPU2 chip.
-Check activity on the PPU2. Check if signals are output through the RGB and CSYNC output pins 95, 96, 97, and 100 of the PPU2 (U3). If there is no data, replace PPU2. If there is data, replace S-ENC (U7).
+There are no clear indication from these measurements what causes the black screen. I know from some Google searching that there are many SNES with black screen where the culprit is either a bad CPU-A or a PPU-1. So I will start with replacing these. 
+
+## Replacing the CPU-A
+
+Desoldering a 100-pin chip is a first for me. I managed to eventually get it desoldered, but it was not as easy as I had anticipated. But, this is the way it must be. Learning is hard!
+
+To remove the CPU-A chip plenty of flux is added to all the pins, and then hot air (from 370 - 390 degrees) are applied in a circular motion. The chip is lifted with a pair of tweezers, and the are is cleaned with desoldering wick and isopropanol. See piture below.
+
+
 
 # Casing
 
@@ -348,8 +352,6 @@ After retrobrighting and another round of cleaning, the covers look much better.
 <p align="center">
     <img src="Images/Case_07.jpeg" alt="Description" width="700">
 </p>
-
-<!-- MARK START -->
 
 <!-- MARK STOP -->
 
