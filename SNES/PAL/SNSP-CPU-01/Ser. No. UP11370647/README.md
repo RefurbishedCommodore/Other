@@ -309,6 +309,9 @@ Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. 
     <img src="Images/Main_08.jpeg" alt="Description" width="500">
 </p>
 
+A new (?) CPU IC is taken from another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md) and soldered in.
+
+
 # Casing
 
 The casing is quite dirty, and parts of it are severely yellowed. To refurbish the casing, the plan is to completely disassemble the plastic parts, clean all the components, and retrobright the yellowed parts.
