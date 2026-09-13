@@ -311,6 +311,9 @@ Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. 
 
 A new (?) CPU IC is taken from another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md) and soldered in.
 
+<p align="center">
+    <img src="Images/Main_09.jpeg" alt="Description" width="600">
+</p>
 
 # Casing
 
