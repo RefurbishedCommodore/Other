@@ -315,6 +315,10 @@ A new (?) CPU IC is taken from another [SNES](https://github.com/RefurbishedComm
     <img src="Images/Main_09.jpeg" alt="Description" width="600">
 </p>
 
+With the new CPU in place the console is tested with the Burn-in test cartridge again. And the result: **SUCCESS** - all tests passed. NOTE: This does not mean that everything is working fine, but at least the console is now apparently working. More testing will be done later.
+
+
+
 # Casing
 
 The casing is quite dirty, and parts of it are severely yellowed. To refurbish the casing, the plan is to completely disassemble the plastic parts, clean all the components, and retrobright the yellowed parts.
