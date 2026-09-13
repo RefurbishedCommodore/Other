@@ -317,7 +317,9 @@ A new (?) CPU IC is taken from another [SNES](https://github.com/RefurbishedComm
 
 With the new CPU in place the console is tested with the Burn-in test cartridge again. And the result: **SUCCESS** - all tests passed. NOTE: This does not mean that everything is working fine, but at least the console is now apparently working. More testing will be done later.
 
-
+<p align="center">
+    <img src="Images/Main_10.png" alt="Description" width="600">
+</p>
 
 # Casing
 
