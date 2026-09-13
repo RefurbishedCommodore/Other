@@ -309,9 +309,6 @@ Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. 
     <img src="Images/Main_08.jpeg" alt="Description" width="500">
 </p>
 
-
-
-
 # Casing
 
 The casing is quite dirty, and parts of it are severely yellowed. To refurbish the casing, the plan is to completely disassemble the plastic parts, clean all the components, and retrobright the yellowed parts.
