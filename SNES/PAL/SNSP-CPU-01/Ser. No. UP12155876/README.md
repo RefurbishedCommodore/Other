@@ -60,7 +60,7 @@ The yellowing is very interesting. Some parts have yellowed more than others:
 
 But on the bright side (no pun intended) the SNES seems to be in good mechanical condition. I can not see any cracks or damage. There are some signs of tear and wear, but not something severe as far as I can see. 
 
-❤️ - This SNES is special. It will be used to help another SNES to be repaired! By moving some of the functioning chips from this SNES to a broken SNES, it will make it easier to identify which chips are faulty on the broken SNES. What a beautiful way to serve another SNES! But this will mean that this SNES will be not-working then? Yes, for a while. But eventually new chip(s) will be sourced for this SNES also.
+❤️ - This SNES is special. It will be used to help another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP11370647/README.md) to be repaired! By moving some of the functioning chips from this SNES to a broken SNES, it will make it easier to identify which chips are faulty on the broken SNES. What a beautiful way to serve another SNES! But this will mean that this SNES will be not-working then? Yes, for a while. But eventually new chip(s) will be sourced for this SNES also.
 
 <p align="center">
     <img src="Images/Start_01.jpeg" alt="Description" width="600">
@@ -219,11 +219,11 @@ The table below lists all major ICs found on the mainboard.
 </div>
 <!-- MARK STOP -->
 
+<!-- MARK START -->
+
 ## Desoldering the CPU-A
 
-Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the pictures below.
-
-<!-- MARK START -->
+Since this SNES is going to be used to help another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP11370647/README.md) being repaired the CPU is desoldered. Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the pictures below.
 
 <p align="center" float="left">
     <img src="Images/Main_03.jpeg" alt="Description" width="500">
