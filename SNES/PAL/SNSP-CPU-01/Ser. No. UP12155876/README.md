@@ -219,6 +219,17 @@ The table below lists all major ICs found on the mainboard.
 </div>
 <!-- MARK STOP -->
 
+## Desoldering the CPU-A
+
+Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the pictures below.
+
+<!-- MARK START -->
+
+<p align="center" float="left">
+    <img src="Images/Main_03.jpeg" alt="Description" width="500">
+    <img src="Images/Main_04.jpeg" alt="Description" width="500">
+</p>
+
 
 # Casing
 
