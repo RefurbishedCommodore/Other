@@ -39,6 +39,12 @@
         <li>
           <a href="#removing-corrosion">Removing corrosion</a>
         </li>
+        <li>
+          <a href="#initial-measurements">Initial measurements</a>
+        </li>
+        <li>
+          <a href="#replacing-the-cpu">Replacing the CPU</a>
+        </li>
       </ul>
     </li>
     <li>
@@ -275,7 +281,6 @@ During the repair I notice more corrosion on the board. Still no broken traces, 
     <img src="Images/Main_06.jpeg" alt="Description" width="900">
 </p>
 
-
 ## Initial measurements
 
 To support the troubleshooting some areas are checked and measured. See table below.
@@ -295,31 +300,32 @@ To support the troubleshooting some areas are checked and measured. See table be
 
 There are no clear indications from these measurements as to what is causing the black screen. From some Google searching, I know that there are many SNES consoles with a black screen where the culprit is either a faulty CPU-A or PPU-1. So, I will start by replacing these.
 
-
-## Replacing the CPU-A
+## Replacing the CPU
 
 Desoldering a 100-pin chip is a first for me. I eventually managed to get it desoldered, but it was not as easy as I had anticipated. But this is the way it must be. Learning is hard!
 
 Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the pictures below.
-
-<!-- MARK START -->
 
 <p align="center" float="left">
     <img src="Images/Main_07.jpeg" alt="Description" width="500">
     <img src="Images/Main_08.jpeg" alt="Description" width="500">
 </p>
 
-A new (?) CPU IC is taken from another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md) and soldered in.
+A replacement CPU-A is taken from another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md) and soldered in.
 
 <p align="center">
     <img src="Images/Main_09.jpeg" alt="Description" width="600">
 </p>
 
-With the new CPU in place the console is tested with the Burn-in test cartridge again. And the result: **SUCCESS** - all tests passed. NOTE: This does not mean that everything is working fine, but at least the console is now apparently working. More testing will be done later.
+With the new CPU-A in place, the console is tested with the Burn-in Test Cartridge again. And the result: **SUCCESSÆÆ — all tests passed.
+
+NOTE: This does not mean that everything is working fine, but at least the console now appears to be working. More testing will be carried out later.
 
 <p align="center">
     <img src="Images/Main_10.png" alt="Description" width="600">
 </p>
+
+<!-- MARK START -->
 
 # Casing
 
