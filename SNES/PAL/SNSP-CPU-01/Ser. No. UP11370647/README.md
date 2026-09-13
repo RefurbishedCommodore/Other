@@ -325,8 +325,6 @@ NOTE: This does not mean that everything is working fine, but at least the conso
     <img src="Images/Main_10.png" alt="Description" width="600">
 </p>
 
-<!-- MARK START -->
-
 # Casing
 
 The casing is quite dirty, and parts of it are severely yellowed. To refurbish the casing, the plan is to completely disassemble the plastic parts, clean all the components, and retrobright the yellowed parts.
@@ -374,6 +372,8 @@ After retrobrighting and another round of cleaning, the covers look much better.
 <p align="center">
     <img src="Images/Case_07.jpeg" alt="Description" width="700">
 </p>
+
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
