@@ -45,6 +45,9 @@
         <li>
           <a href="#replacing-the-cpu">Replacing the CPU</a>
         </li>
+        <li>
+          <a href="#replacing-the-electrolytic-capacitors">Replacing the electrolytic capacitors</a>
+        </li>
       </ul>
     </li>
     <li>
@@ -317,13 +320,16 @@ A replacement CPU-A is taken from another [SNES](https://github.com/RefurbishedC
     <img src="Images/Main_09.jpeg" alt="Description" width="600">
 </p>
 
-With the new CPU-A in place, the console is tested with the Burn-in Test Cartridge again. And the result: **SUCCESSÆÆ — all tests passed.
+With the new CPU-A in place, the console is tested with the Burn-in Test Cartridge again. And the result: **SUCCESS** — all tests passed.
 
 NOTE: This does not mean that everything is working fine, but at least the console now appears to be working. More testing will be carried out later.
 
 <p align="center">
     <img src="Images/Main_10.png" alt="Description" width="600">
 </p>
+
+## Replacing the electrolytic capacitors
+
 
 # Casing
 
