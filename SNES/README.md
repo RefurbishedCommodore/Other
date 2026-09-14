@@ -20,20 +20,13 @@ The No-Fault Ratio indicates the likelihood that a randomly selected SNES has a 
 
 </div>
 
-
-
-
-
-
-
-
-
-
 ***Faulty ICs***
 
-| Chip description | Chip version | Chip Location | Number of registered defective | Comment |
+A faulty IC is defined as a chip that is either completely or partially non-functional.
+
+| Chip description | Chip version | Version | Number of registered defective | Comment |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|  |  |  |  | |
+| CPU | CPU-A | S-CPU A<BR> 5A22-02 | 1 | |
 
 # Loading - in progress
 
