@@ -6,6 +6,29 @@
 
 # Statistics
 
+The statistics below are based on newly refurbished SNES consoles that are documented in this GitHub repository.
+
+***No-Fault-Ratios***
+
+The No-Fault Ratio indicates the likelihood that a randomly selected SNES has a working mainboard before refurbishment starts. A “working mainboard” is defined as a mainboard that passes all initial tests. Note that broken mechanical parts are not registered as faults..
+
+<div align="center">
+    
+| Total refurbished devices | Total passed initial test | NFR |
+|:----------:|:----------:|:----------:|
+| 2 | 1  | 50 % |
+
+</div>
+
+
+
+
+
+
+
+
+
+
 ***Faulty ICs***
 
 | Chip description | Chip version | Chip Location | Number of registered defective | Comment |
