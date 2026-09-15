@@ -349,6 +349,13 @@ There are ten electrolytic capacitors on the mainboard. Several of these have le
 
 </div>
 
+A very nice map showing the position of all the capacitors is available at [retroupgrades.co.uk](https://www.retroupgrades.co.uk/). This is a handy tool when doing the recap of the SNES mainboard.
+
+<p align="center">
+    <img src="Images/Main_11.png" alt="Description" width="600">
+</p>
+
+
 # Casing
 
 The casing is quite dirty, and parts of it are severely yellowed. To refurbish the casing, the plan is to completely disassemble the plastic parts, clean all the components, and retrobright the yellowed parts.
