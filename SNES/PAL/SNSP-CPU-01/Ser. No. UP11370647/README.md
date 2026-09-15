@@ -330,6 +330,24 @@ NOTE: This does not mean that everything is working fine, but at least the conso
 
 ## Replacing the electrolytic capacitors
 
+There are ten electrolytic capacitors on the mainboard. Several of these have leaked, or is likely to start leaking soon. A replacement kit from [retroupgrades.co.uk](https://www.retroupgrades.co.uk/) is used as source of replacement capacitors.
+
+<div align="center">
+  
+| Capacitor | Capacitance | Voltage rating| Note |
+|:----------:|:----------:|:----------:|:----------:|
+| C59 | 10 μF | 25 V | Bipolar |
+| C60 | 10 μF | 50 V | |
+| C61 | 10 μF | 50 V | |
+| C62 | 2.2 μF | 50 V | |
+| C63 | 33 μF | 25 V | |
+| C64 | 33 μF | 25 V | |
+| C65 | 10 μF | 50 V | |
+| C66 | 10 μF | 50 V | |
+| C67 | 2200 μF | 25 V | |
+| C73 | 47 μF | 16 V | |
+
+</div>
 
 # Casing
 
