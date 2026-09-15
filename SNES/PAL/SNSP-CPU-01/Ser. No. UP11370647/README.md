@@ -355,6 +355,10 @@ A very nice map showing the position of all the capacitors is available at [retr
     <img src="Images/Main_11.png" alt="Description" width="600">
 </p>
 
+All the old capacitors are removed without any damage to traces or pads. During the removal, I notice some areas of leakage which could cause corrosion. These areas are treated with vinegar first, then cleaned and the corrosion is removed with a glass fiber pen. Below are some pictures from the removal and recap process.
+
+
+
 
 # Casing
 
