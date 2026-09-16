@@ -463,6 +463,18 @@ After retrobrighting and another round of cleaning, the covers look much better.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Testing
+
+The proof is in the pudding—does it work?
+
+Testing is carried out in two main stages:
+
+1. Testing the basic functionality and chips with the Burn-in cartridge and the 240P Test suite cartridge
+2. Testing the console by running different game cartridges - including Super Mario Kart
+
+**NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
+
+
 <!-- MARK START -->
 
 <!-- MARK STOP -->
