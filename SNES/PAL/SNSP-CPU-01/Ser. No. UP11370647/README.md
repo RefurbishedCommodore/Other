@@ -397,7 +397,7 @@ Below is a picture of the mainboard with all the new electrolytic capacitors ins
 
 ## Replacing the voltage regulator
 
-It is good practice to replace the 7805 voltage regulator when refurbishing the SNES. The 7805 voltage regulator is exposed for quite some thermal stress during its operation, and adding the age of the device itself there is good reasons for replacing it.
+It is good practice to replace the 7805 voltage regulator when refurbishing the SNES. The 7805 voltage regulator is exposed for quite some thermal stress during its operation, and adding the age of the device itself there is good reasons for replacing it. Below is a picture of the new 7805 voltage regulator installed and mounted to the RF-shield (and heatsink).
 
 <p align="center">
     <img src="Images/Main_12.jpeg" alt="Description" width="600">
