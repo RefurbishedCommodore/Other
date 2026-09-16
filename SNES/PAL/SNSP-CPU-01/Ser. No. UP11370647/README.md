@@ -48,6 +48,9 @@
         <li>
           <a href="#replacing-the-electrolytic-capacitors">Replacing the electrolytic capacitors</a>
         </li>
+        <li>
+          <a href="#replacing-the-voltage-regulator">Replacing the voltage regulator</a>
+        </li>
       </ul>
     </li>
     <li>
@@ -378,11 +381,13 @@ All the old capacitors are removed without any damage to traces or pads. During 
     <img src="Images/Cap_14.jpeg" alt="Description" width="200">
 </p>
 
-
 <p align="center" float="left">
     <img src="Images/Cap_03.jpeg" alt="Description" width="250">
     <img src="Images/Cap_04.jpeg" alt="Description" width="250">
 </p>
+
+## Replacing the voltage regulator
+
 
 
 # Casing
