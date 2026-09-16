@@ -392,12 +392,16 @@ All the old capacitors are removed without any damage to traces or pads. During 
 Below is a picture of the mainboard with all the new electrolytic capacitors installed.
 
 <p align="center">
-    <img src="Images/Cap_15.jpeg" alt="Description" width="600">
+    <img src="Images/Cap_15.jpeg" alt="Description" width="800">
 </p>
 
 ## Replacing the voltage regulator
 
 It is good practice to replace the 7805 voltage regulator when refurbishing the SNES. The 7805 voltage regulator is exposed for quite some thermal stress during its operation, and adding the age of the device itself there is good reasons for replacing it.
+
+<p align="center">
+    <img src="Images/Main_12.jpeg" alt="Description" width="600">
+</p>
 
 ## Vertical line fix
 
