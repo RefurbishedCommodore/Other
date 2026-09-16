@@ -95,8 +95,8 @@ Below are some pictures of the SNES before refurbishment.
 
 The planned refurbishment activities for this Suoer Nintendo are listed below. The order may vary, and several activities may be carried out in parallel:
 
-- [ ] Refurbish the casing
-- [ ] Refurbish mainboard
+- [x] Refurbish the casing
+- [x] Refurbish mainboard
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that need special attention.
@@ -411,6 +411,7 @@ It is a known problem that some SNES consoles have a vertical line constantly go
     <img src="Images/Main_13.jpeg" alt="Description" width="600">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
 
@@ -459,6 +460,8 @@ After retrobrighting and another round of cleaning, the covers look much better.
 <p align="center">
     <img src="Images/Case_07.jpeg" alt="Description" width="700">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK START -->
 
