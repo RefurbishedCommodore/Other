@@ -357,7 +357,32 @@ A very nice map showing the position of all the capacitors is available at [retr
 
 All the old capacitors are removed without any damage to traces or pads. During the removal, I notice some areas of leakage which could cause corrosion. These areas are treated with vinegar first, then cleaned and the corrosion is removed with a glass fiber pen. Below are some pictures from the removal and recap process.
 
+<p align="center" float="left">
+    <img src="Images/Cap_01.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_02.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_05.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_06.jpeg" alt="Description" width="200">
+</p>
 
+<p align="center" float="left">
+    <img src="Images/Cap_08.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_07.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_09.jpeg" alt="Description" width="200">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Cap_10.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_11.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_12.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_13.jpeg" alt="Description" width="200">
+    <img src="Images/Cap_14.jpeg" alt="Description" width="200">
+</p>
+
+
+<p align="center" float="left">
+    <img src="Images/Cap_03.jpeg" alt="Description" width="250">
+    <img src="Images/Cap_04.jpeg" alt="Description" width="250">
+</p>
 
 
 # Casing
