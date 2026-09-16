@@ -253,9 +253,9 @@ For transparency, I did not notice the corroded trace at first. It was pointed o
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| 7805 IN | <10 V DC | 7.481 V | TBD  V | PIN#1 7805(U12) |
-| VCC | 5 V DC | 5.046 V | TBD  V | PIN#3 7805(U12) |
-| VS | <10 V DC | 6.667 V | TBD V | Emitter Q18 |
+| 7805 IN | <10 V DC | 7.481 V | 7.223  V | PIN#1 7805(U12) |
+| VCC | 5 V DC | 5.046 V | 4.987  V | PIN#3 7805(U12) |
+| VS | <10 V DC | 6.667 V | 6.735 V | Emitter Q18 |
 
 </div>
 
