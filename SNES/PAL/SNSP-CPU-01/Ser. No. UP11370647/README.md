@@ -67,6 +67,12 @@
           <a href="#cleaning-and-retrobrighting-the-covers">Cleaning and retrobrighting the covers</a>
         </li>
       </ul>
+    <li>
+      <a href="#testing">Testing</a>
+    </li>    
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>    
   </ul>
 </details>
 
