@@ -405,7 +405,7 @@ It is good practice to replace the 7805 voltage regulator when refurbishing the 
 
 ## Vertical line fix
 
-It is a known problem that some SNES consoles have a vertical line constantly going down the center of the screen. I have not seen this myself, but it is good practice to add a 470 μF [16 V] capacitor between GROUND and VOUT at the 7805 pins. This simple fix should at least improve on this potential issue.
+It is a known problem that some SNES consoles have a vertical line constantly going down the center of the screen. I have not seen this myself, but it is good practice to add a 470 μF [6.3 V] capacitor between GROUND and VOUT at the 7805 pins. This simple fix should at least improve on this potential issue.
 
 <p align="center">
     <img src="Images/Main_13.jpeg" alt="Description" width="600">
