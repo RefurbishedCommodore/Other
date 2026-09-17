@@ -121,8 +121,6 @@ This is unfortunate. The fault could be caused by an oxidised cartridge connecto
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
-
 # Disassembly
 
 To start disassembling the SNES, remove the six Gamebit screws[^1]. Note that you will need a special tool for this operation: a 4.5 mm Gamebit screwdriver.
@@ -262,6 +260,8 @@ For transparency, I did not notice the corroded trace at first. It was pointed o
 
 ## Checking the voltages
 
+Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed.
+
 <div align="center">
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
@@ -272,12 +272,9 @@ For transparency, I did not notice the corroded trace at first. It was pointed o
 
 </div>
 
-<!-- MARK START -->
-
-
 ## Removing corrosion
 
-As identified during the visual inspection, there is some corrosion on the trace leading to pin 19 of the cartridge connector. If this trace is damaged, the SNES is likely to fail, as it carries data line D0, connecting the CPU, Work RAM, and PPU-1.
+As identified during the visual inspection, there is some corrosion on the trace leading to pin 19 of the cartridge connector. If this trace is damaged, the SNES is likely to malfunction, as it carries data line D0, connecting the CPU, Work RAM, and PPU-1.
 
 Below is a close-up of the affected area.
 
@@ -285,13 +282,15 @@ Below is a close-up of the affected area.
     <img src="Images/Main_03.jpeg" alt="Description" width="900">
 </p>
 
-The area is first treated with vinegar to stop the corrosion. The affected area is then carefully scraped free of corrosion and finally cleaned thoroughly with isopropanol.
+The area is first treated with vinegar to stop the corrosion. The affected area is then carefully scraped to remove the corrosion and finally cleaned thoroughly with isopropanol.
 
-It also turns out that there is no broken trace. This is somewhat unfortunate, as the black screen is still present after this repair.
+It also turns out that the trace is not broken. This is somewhat unfortunate, as the black screen is still present after this repair.
 
 <p align="center">
     <img src="Images/Main_04.jpeg" alt="Description" width="900">
 </p>
+
+<!-- MARK START -->
 
 During the repair I notice more corrosion on the board. Still no broken traces, but nevertheless something that needs to be fixed. The area near the two electrolytic capacitors, C59 and C60, is also exposed for corrosion. Note: both the solder mask and the silkscreen are removed during the removal of corrosion. Some transparent nail polish will be functioning as a solder mask afterwards.
 
