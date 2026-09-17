@@ -103,7 +103,7 @@ The planned refurbishment activities for this Suoer Nintendo are listed below. T
 
 - [x] Refurbish the casing
 - [x] Refurbish mainboard
-- [ ] Testing and validation
+- [x] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that need special attention.
 <br>
@@ -120,6 +120,8 @@ Before opening the SNES, the console is connected to a TV, powered on, and teste
 This is unfortunate. The fault could be caused by an oxidised cartridge connector, a blown fuse, incorrect supply voltages, broken PCB traces (due to leaking capacitors), or a faulty IC. Occasionally, the console fails to produce any video output at all when powered on.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
 
 # Disassembly
 
@@ -180,13 +182,13 @@ This should not be a major problem, but it is something worth investigating duri
     <img src="Images/Dis_10.jpeg" alt="Description" width="500">
 </p>
 
-When the RF shield (P2) is removed, a large section of the PCB is revealed. As can be seen from the picture below, this is an SNSP-CPU-01 mainboard. This is one of the earlier revisions of the SNES mainboard and, unfortunately, is known for reliability issues due to the faulty `CPU-01` chipset.
+When the RF shield (P2) is removed, a large section of the PCB is revealed. As can be seen in the picture below, this is an SNSP-CPU-01 mainboard. This is one of the earlier revisions of the SNES mainboard and, unfortunately, is known for reliability issues associated with the `CPU-01` chipset.
 
 <p align="center">
     <img src="Images/Dis_11.jpeg" alt="Description" width="800">
 </p>
 
-Before the mainboard PCB can be lifted from the bottom cover, the three remaining screws need to be removed. One is located at the rear right-hand side of the mainboard[^5]. The other two are[^6] partially hidden beneath the P1 RF shield. See the pictures below.
+Before the mainboard PCB can be lifted from the bottom cover, the three remaining screws need to be removed. One is located at the rear right-hand side of the mainboard[^5]. The other two are partially hidden beneath the P1 RF shield[^6]. See the pictures below.
 
 <p align="center">
     <img src="Images/Dis_12.jpeg" alt="Description" width="600">
@@ -196,7 +198,9 @@ Before the mainboard PCB can be lifted from the bottom cover, the three remainin
     <img src="Images/Dis_13.jpeg" alt="Description" width="600">
 </p>
 
-Now the mainboard PCB is lifted out of the bottom cover. The next step is to remove the screw[^7] securing the 7805 voltage regulator to the P1 RF shield, which also serves as its heatsink. **Note:** There are two washers on the screw: one flat washer and one spring lock washer. Also, for some reason, there is no thermal paste between the 7805 voltage regulator and the heatsink.
+The mainboard PCB is now lifted out of the bottom cover. The next step is to remove the screw[^7] securing the 7805 voltage regulator to the P1 RF shield, which also serves as its heatsink.
+
+**Note:** There are two washers on the screw: one flat washer and one spring lock washer. Also, for some reason, there is no thermal paste between the 7805 voltage regulator and the heatsink.
 
 <p align="center">
     <img src="Images/Dis_14.jpeg" alt="Description" width="600">
@@ -210,9 +214,9 @@ To remove the RF shield/heatsink marked "P1", remove the three machine screws[^8
 
 The SNES is now completely disassembled. The mainboard is ready for inspection, and the top and bottom covers are ready for cleaning.
 
-**Note:** Before disassembly, I noticed a faint rattling sound coming from inside the console. However, during disassembly I did not find anything loose. It is possible that whatever caused the noise became dislodged during disassembly, but I am not entirely sure.
+**Note:** Before disassembly, I noticed a faint rattling sound coming from inside the console. However, during disassembly, I did not find anything loose. It is possible that whatever caused the noise became dislodged during disassembly, but I was not entirely sure.
 
-**Updated note:** It turns out that faint rattling sound came from a small plastic part. The casing is extremely brittle (I don´t think I have ever experienced so brittle plastic before), 
+**Update:** It turns out that the faint rattling sound came from a small plastic part. The casing is extremely brittle—I don't think I have ever experienced plastic this brittle before.
 
 <p align="center">
     <img src="Images/Dis_16.jpeg" alt="Description" width="700">
@@ -222,7 +226,7 @@ The SNES is now completely disassembled. The mainboard is ready for inspection, 
 
 # Mainboard
 
-The mainboard is an SNSP-CPU-01, one of the early revisions of the SNES mainboard.
+The mainboard is an SNSP-CPU-01, one of the earlier revisions of the SNES mainboard.
 
 ## Visual inspection
 
@@ -231,7 +235,7 @@ There is a substantial amount of dust and grease on the mainboard. There is also
 - Capacitors C59, C60, and C61 have leaked.
 - A PCB trace around pin 19 of the cartridge connector is corroded.
 
-For transparency, I did not notice the corroded trace at first. It was pointed out by Mark from the YouTube channel The Retro Channel while we were discussing the fault on this SNES over Discord. Thanks, Mark!
+For transparency, I did not notice the corroded trace at first. It was pointed out by Mark from the YouTube channel The Retro Channel while we were discussing the fault with this SNES over Discord. Thanks, Mark!
 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="800">
@@ -267,6 +271,9 @@ For transparency, I did not notice the corroded trace at first. It was pointed o
 | VS | <10 V DC | 6.667 V | 6.735 V | Emitter Q18 |
 
 </div>
+
+<!-- MARK START -->
+
 
 ## Removing corrosion
 
@@ -540,7 +547,7 @@ Below is a collection of pictures of the final result of the refurbishment of th
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-<!-- MARK START -->
+
 
 <!-- MARK STOP -->
 
