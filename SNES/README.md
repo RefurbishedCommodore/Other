@@ -30,12 +30,7 @@ A faulty IC is defined as a chip that is either completely or partially non-func
 
 # Loading - in progress
 
-[![Name](https://img.shields.io/badge/Serial_No.-UP11370647-white?style=plastic)](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP11370647/README.md)
-<br>
-![Name](https://img.shields.io/badge/Revision-SNSP_CPU_01-white?style=plastic)
-![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
-
------
+Click the serial number to access the documentation.
 
 [![Name](https://img.shields.io/badge/Serial_No.-UP12155876-white?style=plastic)](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md)
 <br>
@@ -44,4 +39,10 @@ A faulty IC is defined as a chip that is either completely or partially non-func
 
 # List - archived
 
+Click the serial number to access the documentation.
+
+[![Name](https://img.shields.io/badge/Serial_No.-UP11370647-white?style=plastic)](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP11370647/README.md)
+<br>
+![Name](https://img.shields.io/badge/Revision-SNSP_CPU_01-white?style=plastic)
+![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
