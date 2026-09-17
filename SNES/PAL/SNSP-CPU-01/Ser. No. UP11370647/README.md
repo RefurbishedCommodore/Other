@@ -290,9 +290,9 @@ It also turns out that the trace is not broken. This is somewhat unfortunate, as
     <img src="Images/Main_04.jpeg" alt="Description" width="900">
 </p>
 
-<!-- MARK START -->
+During the repair, I notice more corrosion on the board. There are still no broken traces, but nevertheless, this is something that needs to be fixed. The area around the two electrolytic capacitors, C59 and C60, is also affected by corrosion.
 
-During the repair I notice more corrosion on the board. Still no broken traces, but nevertheless something that needs to be fixed. The area near the two electrolytic capacitors, C59 and C60, is also exposed for corrosion. Note: both the solder mask and the silkscreen are removed during the removal of corrosion. Some transparent nail polish will be functioning as a solder mask afterwards.
+**Note:** Both the solder mask and the silkscreen are removed while removing the corrosion. Some transparent nail polish will be used as a replacement solder mask afterwards.
 
 <p align="center">
     <img src="Images/Main_05.jpeg" alt="Description" width="900">
@@ -301,6 +301,8 @@ During the repair I notice more corrosion on the board. Still no broken traces, 
 <p align="center">
     <img src="Images/Main_06.jpeg" alt="Description" width="900">
 </p>
+
+<!-- MARK START -->
 
 ## Initial measurements
 
