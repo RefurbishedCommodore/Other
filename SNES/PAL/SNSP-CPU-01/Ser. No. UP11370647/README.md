@@ -180,7 +180,7 @@ This should not be a major problem, but it is something worth investigating duri
     <img src="Images/Dis_10.jpeg" alt="Description" width="500">
 </p>
 
-When the RF shield (P2) is removed, a large section of the PCB is revealed. As can be seen in the picture below, this is an SNSP-CPU-01 mainboard. This is one of the earlier revisions of the SNES mainboard and, unfortunately, is known for reliability issues associated with the `CPU-01` chipset.
+When the RF shield (P2) is removed, a large section of the PCB is revealed. As can be seen in the picture below, this is an SNSP-CPU-01 mainboard. This is one of the earlier revisions of the SNES mainboard and, unfortunately, is known for reliability issues associated with the `CPU-A` chipset.
 
 <p align="center">
     <img src="Images/Dis_11.jpeg" alt="Description" width="800">
@@ -274,7 +274,7 @@ Voltages are measured before—and after—refurbishment. This is to ensure that
 
 ## Removing corrosion
 
-As identified during the visual inspection, there is some corrosion on the trace leading to pin 19 of the cartridge connector. If this trace is damaged, the SNES is likely to malfunction, as it carries data line D0, connecting the CPU, Work RAM, and PPU-1.
+As identified during the visual inspection, there is some corrosion on the trace leading to pin 19 of the cartridge connector. If this trace is damaged, the SNES is likely to malfunction, as it carries data line D0, connecting the `CPU-A`, Work `RAM`, and `PPU-1`.
 
 Below is a close-up of the affected area.
 
@@ -302,11 +302,9 @@ During the repair, I notice more corrosion on the board. There are still no brok
     <img src="Images/Main_06.jpeg" alt="Description" width="900">
 </p>
 
-<!-- MARK START -->
-
 ## Initial measurements
 
-To support the troubleshooting some areas are checked and measured. See table below.
+To support the troubleshooting process, several points on the mainboard are checked and measured. See the table below.
 
 <div align="center">
     
@@ -321,28 +319,28 @@ To support the troubleshooting some areas are checked and measured. See table be
 
 </div>
 
-There are no clear indications from these measurements as to what is causing the black screen. From some Google searching, I know that there are many SNES consoles with a black screen where the culprit is either a faulty CPU-A or PPU-1. So, I will start by replacing these.
+There are no clear indications from these measurements as to what is causing the black screen. From some Google searching, I know that there are many SNES consoles with a black screen where the culprit is either a faulty `CPU-A` or `PPU-1`. So, I will start by replacing these.
 
 ## Replacing the CPU
 
 Desoldering a 100-pin chip is a first for me. I eventually managed to get it desoldered, but it was not as easy as I had anticipated. But this is the way it must be. Learning is hard!
 
-Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the CPU-A chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the pictures below.
+Before desoldering, the area surrounding the CPU-A is covered with Kapton tape. To remove the `CPU-A` chip, plenty of flux is added to all the pins, and then hot air (set to 370–390 °C) is applied in a circular motion. The chip is lifted with a pair of tweezers, and the area is cleaned with desoldering wick and isopropanol. See the pictures below.
 
 <p align="center" float="left">
     <img src="Images/Main_07.jpeg" alt="Description" width="500">
     <img src="Images/Main_08.jpeg" alt="Description" width="500">
 </p>
 
-A replacement CPU-A is taken from another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md) and soldered in.
+A replacement `CPU-A` is taken from another [SNES](https://github.com/RefurbishedCommodore/Other/blob/main/SNES/PAL/SNSP-CPU-01/Ser.%20No.%20UP12155876/README.md) and soldered into place.
 
 <p align="center">
     <img src="Images/Main_09.jpeg" alt="Description" width="600">
 </p>
 
-With the new CPU-A in place, the console is tested with the Burn-in Test Cartridge again. And the result: **SUCCESS** — all tests passed.
+With the new `CPU-A` in place, the console is tested with the Burn-in Test Cartridge again. And the result: SUCCESS — all tests passed.
 
-NOTE: This does not mean that everything is working fine, but at least the console now appears to be working. More testing will be carried out later.
+**NOTE:** This does not mean that everything is working correctly, but at least the console now appears to be functioning. More testing will be carried out later.
 
 <p align="center">
     <img src="Images/Main_10.png" alt="Description" width="600">
@@ -350,7 +348,7 @@ NOTE: This does not mean that everything is working fine, but at least the conso
 
 ## Replacing the electrolytic capacitors
 
-There are ten electrolytic capacitors on the mainboard. Several of these have leaked, or is likely to start leaking soon. A replacement kit from [retroupgrades.co.uk](https://www.retroupgrades.co.uk/) is used as source of replacement capacitors.
+There are ten electrolytic capacitors on the mainboard. Several of these have leaked or are likely to start leaking soon. A replacement kit from [retroupgrades.co.uk](https://www.retroupgrades.co.uk/)  is used as the source of the replacement capacitors.
 
 <div align="center">
   
@@ -369,13 +367,15 @@ There are ten electrolytic capacitors on the mainboard. Several of these have le
 
 </div>
 
-A very nice map showing the position of all the capacitors is available at [retroupgrades.co.uk](https://www.retroupgrades.co.uk/). This is a handy tool when doing the recap of the SNES mainboard.
+A very useful map showing the location of all the capacitors is available at [retroupgrades.co.uk](https://www.retroupgrades.co.uk/). This is a handy reference when recapping the SNES mainboard.
 
 <p align="center">
     <img src="Images/Main_11.png" alt="Description" width="600">
 </p>
 
-All the old capacitors are removed without any damage to traces or pads. During the removal, I notice some areas of leakage which could cause corrosion. These areas are treated with vinegar first, then cleaned and the corrosion is removed with a glass fiber pen. Below are some pictures from the removal and recap process.
+All the old capacitors are removed without causing any damage to the traces or pads. During the removal, I notice some areas of leakage that could cause corrosion. These areas are first treated with vinegar, then cleaned, and the corrosion is removed with a glass-fibre pen.
+
+Below are some pictures from the capacitor removal and recap process.
 
 <p align="center" float="left">
     <img src="Images/Cap_01.jpeg" alt="Description" width="200">
@@ -411,21 +411,27 @@ Below is a picture of the mainboard with all the new electrolytic capacitors ins
 
 ## Replacing the voltage regulator
 
-It is good practice to replace the 7805 voltage regulator when refurbishing the SNES. The 7805 voltage regulator is exposed for quite some thermal stress during its operation, and adding the age of the device itself there is good reasons for replacing it. Below is a picture of the new 7805 voltage regulator installed and mounted to the RF-shield (and heatsink).
+It is good practice to replace the 7805 voltage regulator when refurbishing the SNES. The 7805 voltage regulator is exposed to quite a lot of thermal stress during operation, and considering the age of the device itself, there are good reasons for replacing it. Below is a picture of the new 7805 voltage regulator installed and mounted to the RF shield (and heatsink).
 
 <p align="center">
     <img src="Images/Main_12.jpeg" alt="Description" width="600">
 </p>
 
+
+
 ## Vertical line fix
 
-It is a known problem that some SNES consoles have a vertical line constantly going down the center of the screen. I have not seen this myself, but it is good practice to add a 470 μF [6.3 V] capacitor between GROUND and VOUT at the 7805 pins. This simple fix should at least improve on this potential issue.
+It is a known problem that some SNES consoles have a vertical line constantly running down the centre of the screen. I have not experienced this myself, but it is good practice to add a 470 μF [6.3 V] capacitor between GROUND and VOUT at the 7805 pins. This simple fix should at least help prevent this potential issue.
+
 
 <p align="center">
     <img src="Images/Main_13.jpeg" alt="Description" width="600">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+<!-- MARK START -->
 
 # Casing
 
