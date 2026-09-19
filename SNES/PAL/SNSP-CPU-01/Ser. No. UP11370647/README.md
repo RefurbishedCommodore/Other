@@ -417,8 +417,6 @@ It is good practice to replace the 7805 voltage regulator when refurbishing the 
     <img src="Images/Main_12.jpeg" alt="Description" width="600">
 </p>
 
-
-
 ## Vertical line fix
 
 It is a known problem that some SNES consoles have a vertical line constantly running down the centre of the screen. I have not experienced this myself, but it is good practice to add a 470 μF [6.3 V] capacitor between GROUND and VOUT at the 7805 pins. This simple fix should at least help prevent this potential issue.
@@ -431,13 +429,11 @@ It is a known problem that some SNES consoles have a vertical line constantly ru
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
-<!-- MARK START -->
-
 # Casing
 
 The casing is quite dirty, and parts of it are severely yellowed. To refurbish the casing, the plan is to completely disassemble the plastic parts, clean all the components, and retrobright the yellowed parts.
 
-**WARNING**: The plastic is very brittle! Some of the plastic broke during disassembly and will need to be glued back together. It is almost impossible to avoid breaking something.
+**WARNING:** The plastic is very brittle! Some of the plastic broke during disassembly and will need to be glued back together. It is almost impossible to avoid breaking something.
 
 <p align="center">
     <img src="Images/Case_01.jpeg" alt="Description" width="700">
@@ -469,7 +465,7 @@ Below are some pictures of the parts after cleaning.
     <img src="Images/Case_05.jpeg" alt="Description" width="700">
 </p>
 
-The top and bottom covers are quite yellowed and in need of some retrobrighting. The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
+The top and bottom covers are quite yellowed and in need of some retrobrighting. The covers are retrobrighted continuously for about 12 hours. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
 
 <p align="center">
     <img src="Images/Case_06.jpeg" alt="Description" width="700">
@@ -489,11 +485,10 @@ The proof is in the pudding—does it work?
 
 Testing is carried out in two main stages:
 
-1. Testing the basic functionality and chips with the Burn-in cartridge and the 240P Test suite cartridge
-2. Testing the console by running different game cartridges - including Super Mario Kart
+1. Testing the basic functionality and the chips with the Burn-in Test Cartridge and the 240P Test Suite cartridge
+2. Testing the console by running different game cartridges, including Super Mario Kart
 
-**NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
-
+**NOTE:** The image quality is poor, but this is not due to any problems with the machine—it is caused by a poor video monitor.
 
 <p align="center" float="left">
     <img src="Images/Test_11.png" alt="Description" width="300">  
@@ -554,7 +549,7 @@ Below is a collection of pictures of the final result of the refurbishment of th
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
