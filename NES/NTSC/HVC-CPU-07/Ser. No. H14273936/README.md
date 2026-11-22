@@ -95,6 +95,9 @@ Below are some pictures of the cardboard box and the user manuals accompanying t
 
 To start disassembling the FAMICOM the six screws at the bottom are removed [^1]. Note that I believe that these are JIS screws (and not Phillips), so a J1 low torque screwdriver is recommended. When the screws are removed the nice little "cracking" sound is heard. This console has probably never been opened before.
 
+<p align="center">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
