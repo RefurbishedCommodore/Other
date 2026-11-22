@@ -111,7 +111,11 @@ Another thing I notice is that Nintendo used a simple, but yet effective, way of
     <img src="Images/Dis_03.jpeg" alt="Description" width="700">
 </p>
 
+Now the PCBs, and the controllers, can be lifted from the top cover. The top cover and power switch are now completely exposed.
 
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="700">
+</p>
 
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
