@@ -149,7 +149,17 @@ The mainboard consists of two PCBs. The large PCB, model HVC-CPU-07, is the logi
 
 ## Visual inspection
 
+The first thing I notice is that there is quite a lot of dust and grease on the PCBs. This is normal after several years of storage, but this is something that needs to be cleaned off. One are where there is quite a lot of dirt is inside the RF-modulator - the old glue used to hold the components in place has gathered much dirt. 
 
+<p align="center">
+    <img src="Images/Main_03.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Main_04.jpeg" alt="Description" width="500">
+</p>
+
+I can not see any bulging capacitors or any signs of rework. I mentioned earlier that I noticed something that could be early corrosion. After closer inspection this does not seem to be the case. There are some residue, but after cleaning with isopropanol the PCB looks fine.
 
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
