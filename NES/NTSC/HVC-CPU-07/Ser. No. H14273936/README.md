@@ -132,7 +132,7 @@ During the disassembly of the cartridge mechanism, the power switch is also disa
 The top cover is now disassembled and ready for cleaning. Note that the two plastic keys is part of the top cover assembly, but is not fastened in any way.
 
 <p align="center">
-    <img src="Images/Dis_07.jpeg" alt="Description" width="500">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="700">
 </p>
 
 **Footnotes**
