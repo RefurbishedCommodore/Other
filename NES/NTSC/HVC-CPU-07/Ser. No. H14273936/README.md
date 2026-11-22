@@ -135,6 +135,22 @@ The top cover is now disassembled and ready for cleaning. Note that the two plas
     <img src="Images/Dis_07.jpeg" alt="Description" width="700">
 </p>
 
+# Mainboard
+
+The mainboard consists of two PCBs. The large PCB, model HVC-CPU-07, is the logic board the CPU, PPU and glue logic. The smaller PCB is used supplying power to the other PCB and RF audio/video output to the TV set.
+
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Main_02.jpeg" alt="Description" width="1000">
+</p>
+
+## Visual inspection
+
+
+
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 
