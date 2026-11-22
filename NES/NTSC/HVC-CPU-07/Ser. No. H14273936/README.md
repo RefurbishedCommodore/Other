@@ -50,3 +50,41 @@ From the outside it looks to be in fine condition. It is severely yellowed, but 
 Also, the two controllers appears to be in good condition. There are some signs of tear and wear on the metal plates, but that this is to be expected.
 
 Below are some pictures of the Family Computer (FAMICOM) before refurbishment.
+
+<p align="center">
+    <img src="Images/Start_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_02.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_05.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Start_06.jpeg" alt="Description" width="800">
+</p>
+
+Below are some pictures of the cardboard box and the user manuals accompanying the console. 
+
+<p align="center" float="left">
+    <img src="Images/Start_07.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Start_08.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Start_09.jpeg" alt="Description" width="600">
+</p>
