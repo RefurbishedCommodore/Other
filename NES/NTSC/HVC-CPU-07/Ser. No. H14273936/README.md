@@ -99,7 +99,7 @@ To start disassembling the FAMICOM the six screws at the bottom are removed [^1]
     <img src="Images/Dis_01.jpeg" alt="Description" width="700">
 </p>
 
-With the screws out of the way, the bottom cover is lifted from the top cover. Now the interior is exposed, and the the backside of the two PCBs are visible. At first glance I can see some dust inside, and there are some residue on the PCB that could be the start of corrosion (needs to be investigated later).
+With the screws out of the way, the bottom cover is lifted from the top cover. Now the interior is exposed, and the the backside of the two PCBs are visible. At first glance I can see some dust inside, and there are some residue on the PCB that could be the start of corrosion (needs to be investigated later). The two PCBs are held in place by eight screws (see arrows in picture below). These are the same size and model as the screws holding the bottom cover[^1]. 
 
 <p align="center">
     <img src="Images/Dis_02.jpeg" alt="Description" width="700">
