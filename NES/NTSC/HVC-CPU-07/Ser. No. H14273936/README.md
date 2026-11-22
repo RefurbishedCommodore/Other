@@ -161,6 +161,19 @@ The first thing I notice is that there is quite a lot of dust and grease on the 
 
 I can not see any bulging capacitors or any signs of rework. I mentioned earlier that I noticed something that could be early corrosion. After closer inspection this does not seem to be the case. There are some residue, but after cleaning with isopropanol the PCB looks fine.
 
+The table below lists all major custom ICs found on the mainboard. The custom chips have date codes in the Year/Month/Week format. According to these this FAMICOM was produced in the winter, or early spring, in 1988.
+
+<div align="center">
+    
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU/APU | RICOH | RP2A03G | Week 1/March/Year 1988 | No | NTSC version |
+| PPU | RICOH | RP2C02G-0 | Week 2/March/Year 1988 | No | NTSC version | 
+| S-RAM | SONY | CXK5816SPS-15L |  Week 1/December/Year 1987 | No |  |
+| Glue logic | Matsushita, Fujistu and SGS Thomson |  |  |  |  |
+
+</div>
+
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 
