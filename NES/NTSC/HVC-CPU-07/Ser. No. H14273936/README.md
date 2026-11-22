@@ -123,6 +123,12 @@ The cartridge locking mechanism is now removed by carefully lifting one side of 
     <img src="Images/Dis_05.jpeg" alt="Description" width="700">
 </p>
 
+During the disassembly of the cartridge mechanism, the power switch is also disassembled. This is held to the top cover with two screws - also the same dimensions as the bottom cover screws[^1].
+
+<p align="center">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="700">
+</p>
+
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 
