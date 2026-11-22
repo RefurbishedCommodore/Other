@@ -101,6 +101,17 @@ To start disassembling the FAMICOM the six screws at the bottom are removed [^1]
 
 With the screws out of the way, the bottom cover is lifted from the top cover. Now the interior is exposed, and the the backside of the two PCBs are visible. At first glance I can see some dust inside, and there are some residue on the PCB that could be the start of corrosion (needs to be investigated later).
 
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="700">
+</p>
+
+Another thing I notice is that Nintendo used a simple, but yet effective, way of cable strains. By winding the controller cables around the internal screw posts both controller was effectively prevented from being ripped out of the console. Clever Japanese engineering.
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="700">
+</p>
+
+
 
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
