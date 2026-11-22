@@ -137,7 +137,7 @@ The top cover is now disassembled and ready for cleaning. Note that the two plas
 
 # Mainboard
 
-The mainboard consists of two PCBs. The large PCB, model HVC-CPU-07, is the logic board the CPU, PPU and glue logic. The smaller PCB is used supplying power to the other PCB and RF audio/video output to the TV set.
+The mainboard consists of two PCBs. The large PCB, model HVC-CPU-07, is the logic board the CPU, PPU and glue logic. The smaller PCB is used supplying power to the other PCB and RF audio/video output to the TV set. The RF-modulator is marked with E210026 // 8D28A85B-J.
 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="1000">
