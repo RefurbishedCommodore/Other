@@ -117,6 +117,12 @@ Now the PCBs, and the controllers, can be lifted from the top cover. The top cov
     <img src="Images/Dis_04.jpeg" alt="Description" width="700">
 </p>
 
+The cartridge locking mechanism is now removed by carefully lifting one side of the spring away from the plastic arm (see arrow in the picture below). With the spring removed, the whole cartridge mechanism can be removed.
+
+<p align="center">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="700">
+</p>
+
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 
