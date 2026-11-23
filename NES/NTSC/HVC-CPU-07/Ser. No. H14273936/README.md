@@ -189,6 +189,22 @@ Performing some initial testing of the FAMICOM is not so straightforward due to 
 - A 9 V DV power supply from a European SNES (**NOTE:** the 9 V DC must be center negative)
 - A PAL TV set tuned to a channel "C77"
 
+<div align="center">
+    
+| Area | Test | Result | Note |
+|:----------:|:----------:|:----------:|:----------|
+| Video | Display game graphics | PASS | There is a lot of noise in the video signal due to wrong TV set (PAL) |
+| Audio | Play game music | FAILED | This could very well be caused by wrong TV set (PAL) |
+| Controls | Play game cartridge | PASS |  |
+
+</div>
+
+<p align="center">
+    <img src="Images/Init_01.jpeg" alt="Description" width="700">
+</p>
+
+
+
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
 
