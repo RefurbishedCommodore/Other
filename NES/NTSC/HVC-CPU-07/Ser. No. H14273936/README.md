@@ -203,6 +203,14 @@ Performing some initial testing of the FAMICOM is not so straightforward due to 
     <img src="Images/Init_01.jpeg" alt="Description" width="700">
 </p>
 
+# Casing
+
+The covers are quite dirty, and they are cleaned properly with mild soapy water. After the cleaning the covers are are rinsed with some isopropanol to remove the most stubborn marks. Below is a picture of the covers after cleaning.
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="1000">
+</p>
+
 
 
 **Footnotes**
