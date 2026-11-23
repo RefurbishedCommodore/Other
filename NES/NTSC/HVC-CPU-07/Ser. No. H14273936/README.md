@@ -27,6 +27,11 @@
     <li>
       <a href="#mainboard">Mainboard</a>
     </li>
+      <ul>
+          <li>
+            <a href="#visual-inspection">Visual inspection</a>
+          </li>
+      </ul>
     <li>
       <a href="#casing">Casing</a>
     </li>
@@ -134,6 +139,8 @@ The top cover is now disassembled and ready for cleaning. Note that the two plas
 <p align="center">
     <img src="Images/Dis_07.jpeg" alt="Description" width="700">
 </p>
+
+# Initial testing
 
 # Mainboard
 
