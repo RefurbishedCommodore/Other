@@ -31,6 +31,9 @@
           <li>
             <a href="#visual-inspection">Visual inspection</a>
           </li>
+          <li>
+            <a href="#initial-testing">Initial testing</a>
+          </li>
       </ul>
     <li>
       <a href="#casing">Casing</a>
@@ -140,8 +143,6 @@ The top cover is now disassembled and ready for cleaning. Note that the two plas
     <img src="Images/Dis_07.jpeg" alt="Description" width="700">
 </p>
 
-# Initial testing
-
 # Mainboard
 
 The mainboard consists of two PCBs. The large PCB, model HVC-CPU-07, is the logic board the CPU, PPU and glue logic. The smaller PCB is used supplying power to the other PCB and RF audio/video output to the TV set. The RF-modulator is marked with E210026 // 8D28A85B-J.
@@ -180,6 +181,13 @@ The table below lists all major custom ICs found on the mainboard. The custom ch
 | Glue logic | Matsushita, Fujistu and SGS Thomson |  |  |  |  |
 
 </div>
+
+## Initial testing
+
+Performing some initial testing of the FAMICOM is not so straightforward due to lack of a TV set supporting NTSC and a proper power supply. Nevertheless, I manage to do some initial testing by using:
+
+- A 9 V DV power supply from a European SNES (**NOTE:** the 9 V DC must be center negative)
+- A PAL TV set tuned to a channel "C77"
 
 **Footnotes**
 [^1]: JIS pan head (5.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 11.5 mm
